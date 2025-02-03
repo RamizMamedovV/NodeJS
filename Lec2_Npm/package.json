@@ -4,13 +4,16 @@
   "main": "index.js",
   "scripts": {
     "installUUID": "npm i uuid && exit 1",
-    "clgID_uuid": "node ./index"
+    "clgID_uuid": "node ./index",
+    "sem2": "node ./sem2"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "colors": "^1.4.0",
+    "number-precision": "^1.6.0",
     "uuid": "11.0.5"
   }
 }
