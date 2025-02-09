@@ -7,7 +7,7 @@ const person = {
     name: "Ivan",
     surName: "Ivanov",
     age: 45,
-    sity: "London",
+    city: "London",
 }
 
 const personJson = JSON.stringify(person, null, 2);
@@ -25,7 +25,7 @@ const person = {
     name: "Ivan",
     surName: "Ivanov",
     age: 45,
-    sity: "London",
+    city: "London",
 };
 
 const personJson = JSON.stringify(person, null, 2);
