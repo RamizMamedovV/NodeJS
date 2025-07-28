@@ -1,0 +1,17 @@
+
+
+[sormak, kabul etmek, gücü yetmek / karşılayabilmek, anlaşmak / kabul etmek, izin vermek, duyurmak, özür dilemek, görünmek, varmak(bir yere ulaşmak), kaçınmak, olmak(dönüşmek), başlamak, inanmak, getirmek, inşa etmek, satın almak, dövmek / yenmek, ödünç almak, kırmak, yanmak / yakmak, olmak]
+
+[aramaq, çağırmak, yapabilmek, taşımak55, tutmak, değiştirmek, gelmek, devam etmek, fiyatı olmak, kutlamak, kontrol etmek, seçmek, temizlemek, tırmanmak, kapatmak, karşılaştırmak, şikayet etmek, yemek pişirmek, kopyalamak, düzeltmek, ağlamak/ bağırmak, kesmek, düşünmek, örtmek, sebep olmak]
+
+[yapmak, içmek, sürmek, dans etmek, karar vermek, teslim etmek, tanımlamak/tarif etmek, keşfetmek, tartışmak, bölmek, ikiye katlamak, şüphe etmek, sürüklemek, çizmek, giyinmek, düşürmek, kurutmak, vefat etmek, geliştirmek, cesaret etmek, yemek, kazanmak, keyif almak/hoşlanmak, kaçmak, açıklamak, beklemek/ummak]
+
+[hissetmek, bulmak, unutmak, düşmek, beslemek, dövüşmek/savaşmak, doldurmak, bitirmek, uçmak, takip etmek, zorlamak, donmak/dondurmak, kızartmak, almak/olmak, vermek, gitmek, büyümek/yetiştirmek, tahmin etmek, olmak/meydana gelmek, nefret etmek, sahip olmak, duymak, yardım etmek, saklamak/gizlemek, vurmak, tutmak, ummak, incitmek/acımak, tanımlamak, hayal etmek, geliştirmek, dahil etmek, artırmak, tanıtmak, davet etmek, dahil etmek]
+
+[katılmak, zıplamak/atlamak, tutmak/saklamak, öldürmek, öpmek, bilmek, gülmek, sevmek/aşık olmak, yönetmek/liderlik etmek, öğrenmek, ayrılmak/terk etmek, ödünç vermek, izin vermek, sevmek/hoşlanmak, dinlemek, yaşamak, bakmak/görünmek, kaybetmek, yapmak, anlamına gelmek/kastetmek, hareket etmek/taşınmak, yönetmek/başarmak, evlenmek, ölçmek, tanışmak/buluşmak, özlemek/kaçırmak, ihtiyaç duymak, fark etmek, itaat etmek, teklif etmek, açmak, organize etmek, borçlu olmak, sahip olmak]
+
+[geçmek/geçirmek, ödemek, gerçekleştirmek/icra etmek, seçmek/toplamak, planlamak, oynamak, pratik yapmak, tercih etmek, hazırlamak, sunmak/tanıtmak, numara yapmak, önlemek, üretmek, korumak, kanıtlamak, çekmek, itmek, koymak, sağlamak, işaret etmek, yerleştirmek, okumak, koşmak, yükseltmek, ulaşmak, farkına varmak, almak, tanımak, kaydetmek, azaltmak, reddetmek, pişman olmak, ilişkilendirmek, rahatlamak, hatırlamak, kaldırmak, tekrarlamak, değiştirmek, cevap vermek, rapor etmek, gerektirmek, dönmek/iade etmek, binmek, çalmak, yükselmek, yuvarlanmak, kalmak, temsil etmek]
+
+[
+    kurtarmak/saklamak, söylemek/demek, görmek, satmak, göndermek, hizmet etmek, ayarlamak, yerleşmek/halletmek, sallamak/el sıkışmak, paylaşmak, ateş etmek, göstermek, kapatmak, imzalamak, şarkı söylemek, oturmak, uyumak, gülümsemek, çözmek, konuşmak, harcamak, ayakta durmak, başlamak, kalmak, çalmak, durmak, önermek, sağlamak, desteklemek, varsaymak, şaşırtmak, yüzmek, görünmek, almak, konuşmak, öğretmek, anlatmak/söylemek, eğiliminde olmak, test etmek, teşekkür etmek, düşünmek, atmak, dokunmak, eğitmek, seyahat etmek, tedavi etmek/davranmak, denemek, dönmek, anlamak, kullanmak, ziyaret etmek, beklemek, yürümek, istemek, izlemek, kazanmak, dilemek, çalışmak, endişelenmek, yazmak, giymek, bağırmak, -ebilmek(yapabilmek), -ebilir(izin anlamında), zorunda olmak, olacak(resmî gelecek zaman), -ecek(gelecek zaman yardımcı fiili), -meli/-malı(ahlaki yükümlülük)
+]

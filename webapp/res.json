@@ -1,0 +1,2058 @@
+{
+  "1": {
+    "id": 1,
+    "task": "спрашивать",
+    "options": [
+      "ask"
+    ],
+    "answer": "ask"
+  },
+  "2": {
+    "id": 2,
+    "task": "принимать(предложение, идею)",
+    "options": [
+      "accept"
+    ],
+    "answer": "accept"
+  },
+  "3": {
+    "id": 3,
+    "task": "позволять себе(финансово)",
+    "options": [
+      "afford"
+    ],
+    "answer": "afford"
+  },
+  "4": {
+    "id": 4,
+    "task": "соглашаться",
+    "options": [
+      "agree"
+    ],
+    "answer": "agree"
+  },
+  "5": {
+    "id": 5,
+    "task": "разрешать",
+    "options": [
+      "allow"
+    ],
+    "answer": "allow"
+  },
+  "6": {
+    "id": 6,
+    "task": "объявлять",
+    "options": [
+      "announce"
+    ],
+    "answer": "announce"
+  },
+  "7": {
+    "id": 7,
+    "task": "извиняться",
+    "options": [
+      "apologize"
+    ],
+    "answer": "apologize"
+  },
+  "8": {
+    "id": 8,
+    "task": "появляться",
+    "options": [
+      "appear"
+    ],
+    "answer": "appear"
+  },
+  "9": {
+    "id": 9,
+    "task": "прибывать",
+    "options": [
+      "arrive"
+    ],
+    "answer": "arrive"
+  },
+  "10": {
+    "id": 10,
+    "task": "избегать",
+    "options": [
+      "avoid"
+    ],
+    "answer": "avoid"
+  },
+  "11": {
+    "id": 11,
+    "task": "становиться",
+    "options": [
+      "become"
+    ],
+    "answer": "become"
+  },
+  "12": {
+    "id": 12,
+    "task": "начинать",
+    "options": [
+      "begin"
+    ],
+    "answer": "begin"
+  },
+  "13": {
+    "id": 13,
+    "task": "верить",
+    "options": [
+      "believe"
+    ],
+    "answer": "believe"
+  },
+  "14": {
+    "id": 14,
+    "task": "приносить",
+    "options": [
+      "bring"
+    ],
+    "answer": "bring"
+  },
+  "15": {
+    "id": 15,
+    "task": "строить",
+    "options": [
+      "build"
+    ],
+    "answer": "build"
+  },
+  "16": {
+    "id": 16,
+    "task": "покупать",
+    "options": [
+      "buy"
+    ],
+    "answer": "buy"
+  },
+  "17": {
+    "id": 17,
+    "task": "бить(побеждать)",
+    "options": [
+      "beat"
+    ],
+    "answer": "beat"
+  },
+  "18": {
+    "id": 18,
+    "task": "занимать(в долг)",
+    "options": [
+      "borrow"
+    ],
+    "answer": "borrow"
+  },
+  "19": {
+    "id": 19,
+    "task": "ломать",
+    "options": [
+      "break"
+    ],
+    "answer": "break"
+  },
+  "20": {
+    "id": 20,
+    "task": "гореть/жечь",
+    "options": [
+      "burn"
+    ],
+    "answer": "burn"
+  },
+  "21": {
+    "id": 21,
+    "task": "быть",
+    "options": [
+      "be"
+    ],
+    "answer": "be"
+  },
+  "22": {
+    "id": 22,
+    "task": "звать/называть/звонить",
+    "options": [
+      "call"
+    ],
+    "answer": "call"
+  },
+  "23": {
+    "id": 23,
+    "task": "мочь/уметь (модальный глагол)",
+    "options": [
+      "can"
+    ],
+    "answer": "can"
+  },
+  "24": {
+    "id": 24,
+    "task": "нести/переносить",
+    "options": [
+      "carry"
+    ],
+    "answer": "carry"
+  },
+  "25": {
+    "id": 25,
+    "task": "ловить/поймать",
+    "options": [
+      "catch"
+    ],
+    "answer": "catch"
+  },
+  "26": {
+    "id": 26,
+    "task": "менять(ся)/изменять",
+    "options": [
+      "change"
+    ],
+    "answer": "change"
+  },
+  "27": {
+    "id": 27,
+    "task": "приходить/приезжать",
+    "options": [
+      "come"
+    ],
+    "answer": "come"
+  },
+  "28": {
+    "id": 28,
+    "task": "продолжать",
+    "options": [
+      "continue"
+    ],
+    "answer": "continue"
+  },
+  "29": {
+    "id": 29,
+    "task": "стоить(о цене)",
+    "options": [
+      "cost"
+    ],
+    "answer": "cost"
+  },
+  "30": {
+    "id": 30,
+    "task": "праздновать",
+    "options": [
+      "celebrate"
+    ],
+    "answer": "celebrate"
+  },
+  "31": {
+    "id": 31,
+    "task": "проверять",
+    "options": [
+      "check"
+    ],
+    "answer": "check"
+  },
+  "32": {
+    "id": 32,
+    "task": "выбирать",
+    "options": [
+      "choose"
+    ],
+    "answer": "choose"
+  },
+  "33": {
+    "id": 33,
+    "task": "чистить/убирать",
+    "options": [
+      "clean"
+    ],
+    "answer": "clean"
+  },
+  "34": {
+    "id": 34,
+    "task": "карабкаться/взбираться",
+    "options": [
+      "climb"
+    ],
+    "answer": "climb"
+  },
+  "35": {
+    "id": 35,
+    "task": "закрывать",
+    "options": [
+      "close"
+    ],
+    "answer": "close"
+  },
+  "36": {
+    "id": 36,
+    "task": "сравнивать",
+    "options": [
+      "compare"
+    ],
+    "answer": "compare"
+  },
+  "37": {
+    "id": 37,
+    "task": "жаловаться",
+    "options": [
+      "complain"
+    ],
+    "answer": "complain"
+  },
+  "38": {
+    "id": 38,
+    "task": "готовить(еду)",
+    "options": [
+      "cook"
+    ],
+    "answer": "cook"
+  },
+  "39": {
+    "id": 39,
+    "task": "копировать",
+    "options": [
+      "copy"
+    ],
+    "answer": "copy"
+  },
+  "40": {
+    "id": 40,
+    "task": "исправлять",
+    "options": [
+      "correct"
+    ],
+    "answer": "correct"
+  },
+  "41": {
+    "id": 41,
+    "task": "плакать/кричать",
+    "options": [
+      "cry"
+    ],
+    "answer": "cry"
+  },
+  "42": {
+    "id": 42,
+    "task": "резать",
+    "options": [
+      "cut"
+    ],
+    "answer": "cut"
+  },
+  "43": {
+    "id": 43,
+    "task": "считать/рассматривать",
+    "options": [
+      "consider"
+    ],
+    "answer": "consider"
+  },
+  "44": {
+    "id": 44,
+    "task": "покрывать/закрывать",
+    "options": [
+      "cover"
+    ],
+    "answer": "cover"
+  },
+  "45": {
+    "id": 45,
+    "task": "вызывать/быть причиной",
+    "options": [
+      "cause"
+    ],
+    "answer": "cause"
+  },
+  "46": {
+    "id": 46,
+    "task": "делать",
+    "options": [
+      "do"
+    ],
+    "answer": "do"
+  },
+  "47": {
+    "id": 47,
+    "task": "пить",
+    "options": [
+      "drink"
+    ],
+    "answer": "drink"
+  },
+  "48": {
+    "id": 48,
+    "task": "водить(машину)",
+    "options": [
+      "drive"
+    ],
+    "answer": "drive"
+  },
+  "49": {
+    "id": 49,
+    "task": "танцевать",
+    "options": [
+      "dance"
+    ],
+    "answer": "dance"
+  },
+  "50": {
+    "id": 50,
+    "task": "решать",
+    "options": [
+      "decide"
+    ],
+    "answer": "decide"
+  },
+  "51": {
+    "id": 51,
+    "task": "доставлять",
+    "options": [
+      "deliver"
+    ],
+    "answer": "deliver"
+  },
+  "52": {
+    "id": 52,
+    "task": "описывать",
+    "options": [
+      "describe"
+    ],
+    "answer": "describe"
+  },
+  "53": {
+    "id": 53,
+    "task": "открывать(делать открытие)",
+    "options": [
+      "discover"
+    ],
+    "answer": "discover"
+  },
+  "54": {
+    "id": 54,
+    "task": "обсуждать",
+    "options": [
+      "discuss"
+    ],
+    "answer": "discuss"
+  },
+  "55": {
+    "id": 55,
+    "task": "делить",
+    "options": [
+      "divide"
+    ],
+    "answer": "divide"
+  },
+  "56": {
+    "id": 56,
+    "task": "удваивать",
+    "options": [
+      "double"
+    ],
+    "answer": "double"
+  },
+  "57": {
+    "id": 57,
+    "task": "сомневаться",
+    "options": [
+      "doubt"
+    ],
+    "answer": "doubt"
+  },
+  "58": {
+    "id": 58,
+    "task": "тащить",
+    "options": [
+      "drag"
+    ],
+    "answer": "drag"
+  },
+  "59": {
+    "id": 59,
+    "task": "рисовать",
+    "options": [
+      "draw"
+    ],
+    "answer": "draw"
+  },
+  "60": {
+    "id": 60,
+    "task": "одеваться",
+    "options": [
+      "dress"
+    ],
+    "answer": "dress"
+  },
+  "61": {
+    "id": 61,
+    "task": "ронять",
+    "options": [
+      "drop"
+    ],
+    "answer": "drop"
+  },
+  "62": {
+    "id": 62,
+    "task": "сушить",
+    "options": [
+      "dry"
+    ],
+    "answer": "dry"
+  },
+  "63": {
+    "id": 63,
+    "task": "умирать",
+    "options": [
+      "die"
+    ],
+    "answer": "die"
+  },
+  "64": {
+    "id": 64,
+    "task": "развивать(ся)",
+    "options": [
+      "develop"
+    ],
+    "answer": "develop"
+  },
+  "65": {
+    "id": 65,
+    "task": "сметь/осмеливаться",
+    "options": [
+      "dare"
+    ],
+    "answer": "dare"
+  },
+  "66": {
+    "id": 66,
+    "task": "есть(кушать)",
+    "options": [
+      "eat"
+    ],
+    "answer": "eat"
+  },
+  "67": {
+    "id": 67,
+    "task": "зарабатывать",
+    "options": [
+      "earn"
+    ],
+    "answer": "earn"
+  },
+  "68": {
+    "id": 68,
+    "task": "наслаждаться",
+    "options": [
+      "enjoy"
+    ],
+    "answer": "enjoy"
+  },
+  "69": {
+    "id": 69,
+    "task": "убегать/избегать",
+    "options": [
+      "escape"
+    ],
+    "answer": "escape"
+  },
+  "70": {
+    "id": 70,
+    "task": "объяснять",
+    "options": [
+      "explain"
+    ],
+    "answer": "explain"
+  },
+  "71": {
+    "id": 71,
+    "task": "ожидать",
+    "options": [
+      "expect"
+    ],
+    "answer": "expect"
+  },
+  "72": {
+    "id": 72,
+    "task": "чувствовать",
+    "options": [
+      "feel"
+    ],
+    "answer": "feel"
+  },
+  "73": {
+    "id": 73,
+    "task": "находить",
+    "options": [
+      "find"
+    ],
+    "answer": "find"
+  },
+  "74": {
+    "id": 74,
+    "task": "забывать",
+    "options": [
+      "forget"
+    ],
+    "answer": "forget"
+  },
+  "75": {
+    "id": 75,
+    "task": "падать",
+    "options": [
+      "fall"
+    ],
+    "answer": "fall"
+  },
+  "76": {
+    "id": 76,
+    "task": "кормить",
+    "options": [
+      "feed"
+    ],
+    "answer": "feed"
+  },
+  "77": {
+    "id": 77,
+    "task": "бороться/драться",
+    "options": [
+      "fight"
+    ],
+    "answer": "fight"
+  },
+  "78": {
+    "id": 78,
+    "task": "заполнять",
+    "options": [
+      "fill"
+    ],
+    "answer": "fill"
+  },
+  "79": {
+    "id": 79,
+    "task": "заканчивать",
+    "options": [
+      "finish"
+    ],
+    "answer": "finish"
+  },
+  "80": {
+    "id": 80,
+    "task": "летать",
+    "options": [
+      "fly"
+    ],
+    "answer": "fly"
+  },
+  "81": {
+    "id": 81,
+    "task": "следовать",
+    "options": [
+      "follow"
+    ],
+    "answer": "follow"
+  },
+  "82": {
+    "id": 82,
+    "task": "заставлять",
+    "options": [
+      "force"
+    ],
+    "answer": "force"
+  },
+  "83": {
+    "id": 83,
+    "task": "замерзать/замораживать",
+    "options": [
+      "freeze"
+    ],
+    "answer": "freeze"
+  },
+  "84": {
+    "id": 84,
+    "task": "жарить",
+    "options": [
+      "fry"
+    ],
+    "answer": "fry"
+  },
+  "85": {
+    "id": 85,
+    "task": "получать/становиться",
+    "options": [
+      "get"
+    ],
+    "answer": "get"
+  },
+  "86": {
+    "id": 86,
+    "task": "давать",
+    "options": [
+      "give"
+    ],
+    "answer": "give"
+  },
+  "87": {
+    "id": 87,
+    "task": "идти/ехать",
+    "options": [
+      "go"
+    ],
+    "answer": "go"
+  },
+  "88": {
+    "id": 88,
+    "task": "расти/выращивать",
+    "options": [
+      "grow"
+    ],
+    "answer": "grow"
+  },
+  "89": {
+    "id": 89,
+    "task": "угадывать",
+    "options": [
+      "guess"
+    ],
+    "answer": "guess"
+  },
+  "90": {
+    "id": 90,
+    "task": "случаться",
+    "options": [
+      "happen"
+    ],
+    "answer": "happen"
+  },
+  "91": {
+    "id": 91,
+    "task": "ненавидеть",
+    "options": [
+      "hate"
+    ],
+    "answer": "hate"
+  },
+  "92": {
+    "id": 92,
+    "task": "иметь",
+    "options": [
+      "have"
+    ],
+    "answer": "have"
+  },
+  "93": {
+    "id": 93,
+    "task": "слышать",
+    "options": [
+      "hear"
+    ],
+    "answer": "hear"
+  },
+  "94": {
+    "id": 94,
+    "task": "помогать",
+    "options": [
+      "help"
+    ],
+    "answer": "help"
+  },
+  "95": {
+    "id": 95,
+    "task": "прятать(ся)",
+    "options": [
+      "hide"
+    ],
+    "answer": "hide"
+  },
+  "96": {
+    "id": 96,
+    "task": "ударять",
+    "options": [
+      "hit"
+    ],
+    "answer": "hit"
+  },
+  "97": {
+    "id": 97,
+    "task": "держать",
+    "options": [
+      "hold"
+    ],
+    "answer": "hold"
+  },
+  "98": {
+    "id": 98,
+    "task": "надеяться",
+    "options": [
+      "hope"
+    ],
+    "answer": "hope"
+  },
+  "99": {
+    "id": 99,
+    "task": "причинять боль/болеть",
+    "options": [
+      "hurt"
+    ],
+    "answer": "hurt"
+  },
+  "100": {
+    "id": 100,
+    "task": "идентифицировать",
+    "options": [
+      "identify"
+    ],
+    "answer": "identify"
+  },
+  "101": {
+    "id": 101,
+    "task": "представлять/воображать",
+    "options": [
+      "imagine"
+    ],
+    "answer": "imagine"
+  },
+  "102": {
+    "id": 102,
+    "task": "улучшать",
+    "options": [
+      "improve"
+    ],
+    "answer": "improve"
+  },
+  "103": {
+    "id": 103,
+    "task": "включать",
+    "options": [
+      "include"
+    ],
+    "answer": "include"
+  },
+  "104": {
+    "id": 104,
+    "task": "увеличивать",
+    "options": [
+      "increase"
+    ],
+    "answer": "increase"
+  },
+  "105": {
+    "id": 105,
+    "task": "представлять(кого",
+    "options": [
+      "introduce"
+    ],
+    "answer": "introduce"
+  },
+  "106": {
+    "id": 106,
+    "task": "приглашать",
+    "options": [
+      "invite"
+    ],
+    "answer": "invite"
+  },
+  "107": {
+    "id": 107,
+    "task": "вовлекать",
+    "options": [
+      "involve"
+    ],
+    "answer": "involve"
+  },
+  "108": {
+    "id": 108,
+    "task": "присоединяться",
+    "options": [
+      "join"
+    ],
+    "answer": "join"
+  },
+  "109": {
+    "id": 109,
+    "task": "прыгать",
+    "options": [
+      "jump"
+    ],
+    "answer": "jump"
+  },
+  "110": {
+    "id": 110,
+    "task": "сохранять/продолжать",
+    "options": [
+      "keep"
+    ],
+    "answer": "keep"
+  },
+  "111": {
+    "id": 111,
+    "task": "убивать",
+    "options": [
+      "kill"
+    ],
+    "answer": "kill"
+  },
+  "112": {
+    "id": 112,
+    "task": "целовать",
+    "options": [
+      "kiss"
+    ],
+    "answer": "kiss"
+  },
+  "113": {
+    "id": 113,
+    "task": "знать",
+    "options": [
+      "know"
+    ],
+    "answer": "know"
+  },
+  "114": {
+    "id": 114,
+    "task": "смеяться",
+    "options": [
+      "laugh"
+    ],
+    "answer": "laugh"
+  },
+  "115": {
+    "id": 115,
+    "task": "любить",
+    "options": [
+      "love"
+    ],
+    "answer": "love"
+  },
+  "116": {
+    "id": 116,
+    "task": "вести/руководить",
+    "options": [
+      "lead"
+    ],
+    "answer": "lead"
+  },
+  "117": {
+    "id": 117,
+    "task": "учить(ся)",
+    "options": [
+      "learn"
+    ],
+    "answer": "learn"
+  },
+  "118": {
+    "id": 118,
+    "task": "покидать/оставлять",
+    "options": [
+      "leave"
+    ],
+    "answer": "leave"
+  },
+  "119": {
+    "id": 119,
+    "task": "одалживать(давать взаймы)",
+    "options": [
+      "lend"
+    ],
+    "answer": "lend"
+  },
+  "120": {
+    "id": 120,
+    "task": "позволять",
+    "options": [
+      "let"
+    ],
+    "answer": "let"
+  },
+  "121": {
+    "id": 121,
+    "task": "нравиться",
+    "options": [
+      "like"
+    ],
+    "answer": "like"
+  },
+  "122": {
+    "id": 122,
+    "task": "слушать",
+    "options": [
+      "listen"
+    ],
+    "answer": "listen"
+  },
+  "123": {
+    "id": 123,
+    "task": "жить",
+    "options": [
+      "live"
+    ],
+    "answer": "live"
+  },
+  "124": {
+    "id": 124,
+    "task": "смотреть/выглядеть",
+    "options": [
+      "look"
+    ],
+    "answer": "look"
+  },
+  "125": {
+    "id": 125,
+    "task": "терять",
+    "options": [
+      "lose"
+    ],
+    "answer": "lose"
+  },
+  "126": {
+    "id": 126,
+    "task": "делать/создавать",
+    "options": [
+      "make"
+    ],
+    "answer": "make"
+  },
+  "127": {
+    "id": 127,
+    "task": "означать/иметь в виду",
+    "options": [
+      "mean"
+    ],
+    "answer": "mean"
+  },
+  "128": {
+    "id": 128,
+    "task": "двигать(ся)/переезжать",
+    "options": [
+      "move"
+    ],
+    "answer": "move"
+  },
+  "129": {
+    "id": 129,
+    "task": "управлять/справляться",
+    "options": [
+      "manage"
+    ],
+    "answer": "manage"
+  },
+  "130": {
+    "id": 130,
+    "task": "жениться/выходить замуж",
+    "options": [
+      "marry"
+    ],
+    "answer": "marry"
+  },
+  "131": {
+    "id": 131,
+    "task": "измерять",
+    "options": [
+      "measure"
+    ],
+    "answer": "measure"
+  },
+  "132": {
+    "id": 132,
+    "task": "встречать(ся)",
+    "options": [
+      "meet"
+    ],
+    "answer": "meet"
+  },
+  "133": {
+    "id": 133,
+    "task": "скучать/пропускать",
+    "options": [
+      "miss"
+    ],
+    "answer": "miss"
+  },
+  "134": {
+    "id": 134,
+    "task": "нуждаться",
+    "options": [
+      "need"
+    ],
+    "answer": "need"
+  },
+  "135": {
+    "id": 135,
+    "task": "замечать",
+    "options": [
+      "notice"
+    ],
+    "answer": "notice"
+  },
+  "136": {
+    "id": 136,
+    "task": "подчиняться",
+    "options": [
+      "obey"
+    ],
+    "answer": "obey"
+  },
+  "137": {
+    "id": 137,
+    "task": "предлагать",
+    "options": [
+      "offer"
+    ],
+    "answer": "offer"
+  },
+  "138": {
+    "id": 138,
+    "task": "открывать",
+    "options": [
+      "open"
+    ],
+    "answer": "open"
+  },
+  "139": {
+    "id": 139,
+    "task": "организовывать",
+    "options": [
+      "organize"
+    ],
+    "answer": "organize"
+  },
+  "140": {
+    "id": 140,
+    "task": "быть должным",
+    "options": [
+      "owe"
+    ],
+    "answer": "owe"
+  },
+  "141": {
+    "id": 141,
+    "task": "владеть",
+    "options": [
+      "own"
+    ],
+    "answer": "own"
+  },
+  "142": {
+    "id": 142,
+    "task": "проходить/передавать",
+    "options": [
+      "pass"
+    ],
+    "answer": "pass"
+  },
+  "143": {
+    "id": 143,
+    "task": "платить",
+    "options": [
+      "pay"
+    ],
+    "answer": "pay"
+  },
+  "144": {
+    "id": 144,
+    "task": "выполнять/исполнять",
+    "options": [
+      "perform"
+    ],
+    "answer": "perform"
+  },
+  "145": {
+    "id": 145,
+    "task": "выбирать/собирать(ягоды)",
+    "options": [
+      "pick"
+    ],
+    "answer": "pick"
+  },
+  "146": {
+    "id": 146,
+    "task": "планировать",
+    "options": [
+      "plan"
+    ],
+    "answer": "plan"
+  },
+  "147": {
+    "id": 147,
+    "task": "играть",
+    "options": [
+      "play"
+    ],
+    "answer": "play"
+  },
+  "148": {
+    "id": 148,
+    "task": "практиковать",
+    "options": [
+      "practice"
+    ],
+    "answer": "practice"
+  },
+  "149": {
+    "id": 149,
+    "task": "предпочитать",
+    "options": [
+      "prefer"
+    ],
+    "answer": "prefer"
+  },
+  "150": {
+    "id": 150,
+    "task": "готовить(ся)",
+    "options": [
+      "prepare"
+    ],
+    "answer": "prepare"
+  },
+  "151": {
+    "id": 151,
+    "task": "представлять/дарить",
+    "options": [
+      "present"
+    ],
+    "answer": "present"
+  },
+  "152": {
+    "id": 152,
+    "task": "притворяться",
+    "options": [
+      "pretend"
+    ],
+    "answer": "pretend"
+  },
+  "153": {
+    "id": 153,
+    "task": "предотвращать",
+    "options": [
+      "prevent"
+    ],
+    "answer": "prevent"
+  },
+  "154": {
+    "id": 154,
+    "task": "производить",
+    "options": [
+      "produce"
+    ],
+    "answer": "produce"
+  },
+  "155": {
+    "id": 155,
+    "task": "защищать",
+    "options": [
+      "protect"
+    ],
+    "answer": "protect"
+  },
+  "156": {
+    "id": 156,
+    "task": "доказывать",
+    "options": [
+      "prove"
+    ],
+    "answer": "prove"
+  },
+  "157": {
+    "id": 157,
+    "task": "тянуть",
+    "options": [
+      "pull"
+    ],
+    "answer": "pull"
+  },
+  "158": {
+    "id": 158,
+    "task": "толкать",
+    "options": [
+      "push"
+    ],
+    "answer": "push"
+  },
+  "159": {
+    "id": 159,
+    "task": "класть/ставить",
+    "options": [
+      "put"
+    ],
+    "answer": "put"
+  },
+  "160": {
+    "id": 160,
+    "task": "обеспечивать",
+    "options": [
+      "provide"
+    ],
+    "answer": "provide"
+  },
+  "161": {
+    "id": 161,
+    "task": "указывать",
+    "options": [
+      "point"
+    ],
+    "answer": "point"
+  },
+  "162": {
+    "id": 162,
+    "task": "размещать",
+    "options": [
+      "place"
+    ],
+    "answer": "place"
+  },
+  "163": {
+    "id": 163,
+    "task": "читать",
+    "options": [
+      "read"
+    ],
+    "answer": "read"
+  },
+  "164": {
+    "id": 164,
+    "task": "бежать",
+    "options": [
+      "run"
+    ],
+    "answer": "run"
+  },
+  "165": {
+    "id": 165,
+    "task": "поднимать",
+    "options": [
+      "raise"
+    ],
+    "answer": "raise"
+  },
+  "166": {
+    "id": 166,
+    "task": "достигать",
+    "options": [
+      "reach"
+    ],
+    "answer": "reach"
+  },
+  "167": {
+    "id": 167,
+    "task": "осознавать",
+    "options": [
+      "realize"
+    ],
+    "answer": "realize"
+  },
+  "168": {
+    "id": 168,
+    "task": "получать",
+    "options": [
+      "receive"
+    ],
+    "answer": "receive"
+  },
+  "169": {
+    "id": 169,
+    "task": "узнавать",
+    "options": [
+      "recognize"
+    ],
+    "answer": "recognize"
+  },
+  "170": {
+    "id": 170,
+    "task": "записывать",
+    "options": [
+      "record"
+    ],
+    "answer": "record"
+  },
+  "171": {
+    "id": 171,
+    "task": "уменьшать",
+    "options": [
+      "reduce"
+    ],
+    "answer": "reduce"
+  },
+  "172": {
+    "id": 172,
+    "task": "отказывать",
+    "options": [
+      "refuse"
+    ],
+    "answer": "refuse"
+  },
+  "173": {
+    "id": 173,
+    "task": "сожалеть",
+    "options": [
+      "regret"
+    ],
+    "answer": "regret"
+  },
+  "174": {
+    "id": 174,
+    "task": "соотносить",
+    "options": [
+      "relate"
+    ],
+    "answer": "relate"
+  },
+  "175": {
+    "id": 175,
+    "task": "расслабляться",
+    "options": [
+      "relax"
+    ],
+    "answer": "relax"
+  },
+  "176": {
+    "id": 176,
+    "task": "помнить",
+    "options": [
+      "remember"
+    ],
+    "answer": "remember"
+  },
+  "177": {
+    "id": 177,
+    "task": "удалять",
+    "options": [
+      "remove"
+    ],
+    "answer": "remove"
+  },
+  "178": {
+    "id": 178,
+    "task": "повторять",
+    "options": [
+      "repeat"
+    ],
+    "answer": "repeat"
+  },
+  "179": {
+    "id": 179,
+    "task": "заменять",
+    "options": [
+      "replace"
+    ],
+    "answer": "replace"
+  },
+  "180": {
+    "id": 180,
+    "task": "отвечать",
+    "options": [
+      "reply"
+    ],
+    "answer": "reply"
+  },
+  "181": {
+    "id": 181,
+    "task": "сообщать",
+    "options": [
+      "report"
+    ],
+    "answer": "report"
+  },
+  "182": {
+    "id": 182,
+    "task": "требовать",
+    "options": [
+      "require"
+    ],
+    "answer": "require"
+  },
+  "183": {
+    "id": 183,
+    "task": "возвращать",
+    "options": [
+      "return"
+    ],
+    "answer": "return"
+  },
+  "184": {
+    "id": 184,
+    "task": "ездить верхом",
+    "options": [
+      "ride"
+    ],
+    "answer": "ride"
+  },
+  "185": {
+    "id": 185,
+    "task": "звонить",
+    "options": [
+      "ring"
+    ],
+    "answer": "ring"
+  },
+  "186": {
+    "id": 186,
+    "task": "подниматься",
+    "options": [
+      "rise"
+    ],
+    "answer": "rise"
+  },
+  "187": {
+    "id": 187,
+    "task": "катиться",
+    "options": [
+      "roll"
+    ],
+    "answer": "roll"
+  },
+  "188": {
+    "id": 188,
+    "task": "оставаться",
+    "options": [
+      "remain"
+    ],
+    "answer": "remain"
+  },
+  "189": {
+    "id": 189,
+    "task": "представлять(кого",
+    "options": [
+      "represent"
+    ],
+    "answer": "represent"
+  },
+  "190": {
+    "id": 190,
+    "task": "спасать/сохранять",
+    "options": [
+      "save"
+    ],
+    "answer": "save"
+  },
+  "191": {
+    "id": 191,
+    "task": "говорить/сказать",
+    "options": [
+      "say"
+    ],
+    "answer": "say"
+  },
+  "192": {
+    "id": 192,
+    "task": "видеть",
+    "options": [
+      "see"
+    ],
+    "answer": "see"
+  },
+  "193": {
+    "id": 193,
+    "task": "продавать",
+    "options": [
+      "sell"
+    ],
+    "answer": "sell"
+  },
+  "194": {
+    "id": 194,
+    "task": "отправлять",
+    "options": [
+      "send"
+    ],
+    "answer": "send"
+  },
+  "195": {
+    "id": 195,
+    "task": "обслуживать/служить",
+    "options": [
+      "serve"
+    ],
+    "answer": "serve"
+  },
+  "196": {
+    "id": 196,
+    "task": "устанавливать",
+    "options": [
+      "set"
+    ],
+    "answer": "set"
+  },
+  "197": {
+    "id": 197,
+    "task": "устраивать/улаживать",
+    "options": [
+      "settle"
+    ],
+    "answer": "settle"
+  },
+  "198": {
+    "id": 198,
+    "task": "трясти/пожимать(руку)",
+    "options": [
+      "shake"
+    ],
+    "answer": "shake"
+  },
+  "199": {
+    "id": 199,
+    "task": "делиться",
+    "options": [
+      "share"
+    ],
+    "answer": "share"
+  },
+  "200": {
+    "id": 200,
+    "task": "стрелять",
+    "options": [
+      "shoot"
+    ],
+    "answer": "shoot"
+  },
+  "201": {
+    "id": 201,
+    "task": "показывать",
+    "options": [
+      "show"
+    ],
+    "answer": "show"
+  },
+  "202": {
+    "id": 202,
+    "task": "закрывать",
+    "options": [
+      "shut"
+    ],
+    "answer": "shut"
+  },
+  "203": {
+    "id": 203,
+    "task": "подписывать",
+    "options": [
+      "sign"
+    ],
+    "answer": "sign"
+  },
+  "204": {
+    "id": 204,
+    "task": "петь",
+    "options": [
+      "sing"
+    ],
+    "answer": "sing"
+  },
+  "205": {
+    "id": 205,
+    "task": "сидеть",
+    "options": [
+      "sit"
+    ],
+    "answer": "sit"
+  },
+  "206": {
+    "id": 206,
+    "task": "спать",
+    "options": [
+      "sleep"
+    ],
+    "answer": "sleep"
+  },
+  "207": {
+    "id": 207,
+    "task": "улыбаться",
+    "options": [
+      "smile"
+    ],
+    "answer": "smile"
+  },
+  "208": {
+    "id": 208,
+    "task": "решать(проблему)",
+    "options": [
+      "solve"
+    ],
+    "answer": "solve"
+  },
+  "209": {
+    "id": 209,
+    "task": "говорить",
+    "options": [
+      "speak"
+    ],
+    "answer": "speak"
+  },
+  "210": {
+    "id": 210,
+    "task": "тратить(время/деньги)",
+    "options": [
+      "spend"
+    ],
+    "answer": "spend"
+  },
+  "211": {
+    "id": 211,
+    "task": "стоять",
+    "options": [
+      "stand"
+    ],
+    "answer": "stand"
+  },
+  "212": {
+    "id": 212,
+    "task": "начинать",
+    "options": [
+      "start"
+    ],
+    "answer": "start"
+  },
+  "213": {
+    "id": 213,
+    "task": "оставаться",
+    "options": [
+      "stay"
+    ],
+    "answer": "stay"
+  },
+  "214": {
+    "id": 214,
+    "task": "красть",
+    "options": [
+      "steal"
+    ],
+    "answer": "steal"
+  },
+  "215": {
+    "id": 215,
+    "task": "останавливать(ся)",
+    "options": [
+      "stop"
+    ],
+    "answer": "stop"
+  },
+  "216": {
+    "id": 216,
+    "task": "предлагать",
+    "options": [
+      "suggest"
+    ],
+    "answer": "suggest"
+  },
+  "217": {
+    "id": 217,
+    "task": "поставлять",
+    "options": [
+      "supply"
+    ],
+    "answer": "supply"
+  },
+  "218": {
+    "id": 218,
+    "task": "поддерживать",
+    "options": [
+      "support"
+    ],
+    "answer": "support"
+  },
+  "219": {
+    "id": 219,
+    "task": "полагать",
+    "options": [
+      "suppose"
+    ],
+    "answer": "suppose"
+  },
+  "220": {
+    "id": 220,
+    "task": "удивлять",
+    "options": [
+      "surprise"
+    ],
+    "answer": "surprise"
+  },
+  "221": {
+    "id": 221,
+    "task": "плавать",
+    "options": [
+      "swim"
+    ],
+    "answer": "swim"
+  },
+  "222": {
+    "id": 222,
+    "task": "казаться",
+    "options": [
+      "seem"
+    ],
+    "answer": "seem"
+  },
+  "223": {
+    "id": 223,
+    "task": "брать",
+    "options": [
+      "take"
+    ],
+    "answer": "take"
+  },
+  "224": {
+    "id": 224,
+    "task": "разговаривать",
+    "options": [
+      "talk"
+    ],
+    "answer": "talk"
+  },
+  "225": {
+    "id": 225,
+    "task": "учить(обучать)",
+    "options": [
+      "teach"
+    ],
+    "answer": "teach"
+  },
+  "226": {
+    "id": 226,
+    "task": "рассказывать",
+    "options": [
+      "tell"
+    ],
+    "answer": "tell"
+  },
+  "227": {
+    "id": 227,
+    "task": "иметь тенденцию",
+    "options": [
+      "tend"
+    ],
+    "answer": "tend"
+  },
+  "228": {
+    "id": 228,
+    "task": "проверять",
+    "options": [
+      "test"
+    ],
+    "answer": "test"
+  },
+  "229": {
+    "id": 229,
+    "task": "благодарить",
+    "options": [
+      "thank"
+    ],
+    "answer": "thank"
+  },
+  "230": {
+    "id": 230,
+    "task": "думать",
+    "options": [
+      "think"
+    ],
+    "answer": "think"
+  },
+  "231": {
+    "id": 231,
+    "task": "бросать",
+    "options": [
+      "throw"
+    ],
+    "answer": "throw"
+  },
+  "232": {
+    "id": 232,
+    "task": "касаться",
+    "options": [
+      "touch"
+    ],
+    "answer": "touch"
+  },
+  "233": {
+    "id": 233,
+    "task": "тренировать(ся)",
+    "options": [
+      "train"
+    ],
+    "answer": "train"
+  },
+  "234": {
+    "id": 234,
+    "task": "путешествовать",
+    "options": [
+      "travel"
+    ],
+    "answer": "travel"
+  },
+  "235": {
+    "id": 235,
+    "task": "лечить/относиться",
+    "options": [
+      "treat"
+    ],
+    "answer": "treat"
+  },
+  "236": {
+    "id": 236,
+    "task": "пытаться",
+    "options": [
+      "try"
+    ],
+    "answer": "try"
+  },
+  "237": {
+    "id": 237,
+    "task": "поворачивать(ся)",
+    "options": [
+      "turn"
+    ],
+    "answer": "turn"
+  },
+  "238": {
+    "id": 238,
+    "task": "понимать",
+    "options": [
+      "understand"
+    ],
+    "answer": "understand"
+  },
+  "239": {
+    "id": 239,
+    "task": "использовать",
+    "options": [
+      "use"
+    ],
+    "answer": "use"
+  },
+  "240": {
+    "id": 240,
+    "task": "посещать",
+    "options": [
+      "visit"
+    ],
+    "answer": "visit"
+  },
+  "241": {
+    "id": 241,
+    "task": "ждать",
+    "options": [
+      "wait"
+    ],
+    "answer": "wait"
+  },
+  "242": {
+    "id": 242,
+    "task": "гулять/идти пешком",
+    "options": [
+      "walk"
+    ],
+    "answer": "walk"
+  },
+  "243": {
+    "id": 243,
+    "task": "хотеть",
+    "options": [
+      "want"
+    ],
+    "answer": "want"
+  },
+  "244": {
+    "id": 244,
+    "task": "смотреть(наблюдать)",
+    "options": [
+      "watch"
+    ],
+    "answer": "watch"
+  },
+  "245": {
+    "id": 245,
+    "task": "побеждать",
+    "options": [
+      "win"
+    ],
+    "answer": "win"
+  },
+  "246": {
+    "id": 246,
+    "task": "желать",
+    "options": [
+      "wish"
+    ],
+    "answer": "wish"
+  },
+  "247": {
+    "id": 247,
+    "task": "работать",
+    "options": [
+      "work"
+    ],
+    "answer": "work"
+  },
+  "248": {
+    "id": 248,
+    "task": "беспокоиться",
+    "options": [
+      "worry"
+    ],
+    "answer": "worry"
+  },
+  "249": {
+    "id": 249,
+    "task": "писать",
+    "options": [
+      "write"
+    ],
+    "answer": "write"
+  },
+  "250": {
+    "id": 250,
+    "task": "носить(одежду)",
+    "options": [
+      "wear"
+    ],
+    "answer": "wear"
+  },
+  "251": {
+    "id": 251,
+    "task": "кричать",
+    "options": [
+      "yell"
+    ],
+    "answer": "yell"
+  },
+  "252": {
+    "id": 252,
+    "task": "мочь(уметь)",
+    "options": [
+      "can"
+    ],
+    "answer": "can"
+  },
+  "253": {
+    "id": 253,
+    "task": "можно(разрешение)",
+    "options": [
+      "may"
+    ],
+    "answer": "may"
+  },
+  "254": {
+    "id": 254,
+    "task": "должен",
+    "options": [
+      "must"
+    ],
+    "answer": "must"
+  },
+  "255": {
+    "id": 255,
+    "task": "должен(формальное будущее)",
+    "options": [
+      "shall"
+    ],
+    "answer": "shall"
+  },
+  "256": {
+    "id": 256,
+    "task": "буду(вспомогательный глагол)",
+    "options": [
+      "will"
+    ],
+    "answer": "will"
+  },
+  "257": {
+    "id": 257,
+    "task": "следует(моральный долг)",
+    "options": [
+      "ought to"
+    ],
+    "answer": "ought to"
+  }
+}

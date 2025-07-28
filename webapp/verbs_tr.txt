@@ -1,0 +1,446 @@
+ask — sormak
+
+accept — kabul etmek
+
+afford — gücü yetmek / karşılayabilmek
+
+agree — anlaşmak / kabul etmek
+
+allow — izin vermek
+
+announce — duyurmak
+
+apologize — özür dilemek
+
+appear — görünmek
+
+arrive — varmak (bir yere ulaşmak)
+
+avoid — kaçınmak
+
+become — olmak (dönüşmek)
+
+begin — başlamak
+
+believe — inanmak
+
+bring — getirmek
+
+build — inşa etmek
+
+buy — satın almak
+
+beat — dövmek / yenmek
+
+borrow — ödünç almak
+
+break — kırmak
+
+burn — yanmak / yakmak
+
+be — olmak
+
+call — aramak / çağırmak
+
+can — yapabilmek(yetenek belirtir)
+
+carry — taşımak
+
+catch — yakalamak / tutmak
+
+change — değiştirmek / değişmek
+
+come — gelmek
+
+continue — devam etmek
+
+cost — mal olmak / fiyatı olmak
+
+celebrate — kutlamak
+
+check — kontrol etmek
+
+choose — seçmek
+
+clean — temizlemek
+
+climb — tırmanmak
+
+close — kapatmak
+
+compare — karşılaştırmak
+
+complain — şikayet etmek
+
+cook — yemek pişirmek
+
+copy — kopyalamak
+
+correct — düzeltmek
+
+cry — ağlamak / bağırmak
+
+cut — kesmek
+
+consider — düşünmek / hesaba katmak
+
+cover — örtmek / kapsamak
+
+cause — neden olmak / sebep olmak
+
+do — yapmak
+
+drink — içmek
+
+drive — sürmek (араç)
+
+dance — dans etmek
+
+decide — karar vermek
+
+deliver — teslim etmek
+
+describe — tanımlamak / tarif etmek
+
+discover — keşfetmek
+
+discuss — tartışmak
+
+divide — bölmek
+
+double — ikiye katlamak
+
+doubt — şüphe etmek
+
+drag — sürüklemek
+
+draw — çizmek
+
+dress — giyinmek
+
+drop — düşürmek
+
+dry — kurutmak
+
+die — vefat etmek(ölmek)
+
+develop — geliştirmek
+
+dare — cesaret etmek
+
+eat — yemek
+
+earn — kazanmak (para)
+
+enjoy — keyif almak / hoşlanmak
+
+escape — kaçmak
+
+explain — açıklamak
+
+expect — beklemek / ummak
+
+feel — hissetmek
+
+find — bulmak
+
+forget — unutmak
+
+fall — düşmek
+
+feed — beslemek
+
+fight — dövüşmek / savaşmak
+
+fill — doldurmak
+
+finish — bitirmek
+
+fly — uçmak
+
+follow — takip etmek
+
+force — zorlamak
+
+freeze — donmak / dondurmak
+
+fry — kızartmak
+
+get — almak / olmak
+
+give — vermek
+
+go — gitmek
+
+grow — büyümek / yetiştirmek
+
+guess — tahmin etmek
+
+happen — olmak / meydana gelmek
+
+hate — nefret etmek
+
+have — sahip olmak
+
+hear — duymak
+
+help — yardım etmek
+
+hide — saklamak / gizlemek
+
+hit — vurmak
+
+hold — tutmak
+
+hope — ummak
+
+hurt — incitmek / acımak
+
+identify — tanımlamak
+
+imagine — hayal etmek
+
+improve — geliştirmek
+
+include — dahil etmek
+
+increase — artırmak
+
+introduce — tanıtmak
+
+invite — davet etmek
+
+involve — dahil etmek
+
+join — katılmak
+
+jump — zıplamak / atlamak
+
+keep — tutmak / saklamak
+
+kill — öldürmek
+
+kiss — öpmek
+
+know — bilmek
+
+laugh — gülmek
+
+love — sevmek / aşık olmak
+
+lead — yönetmek / liderlik etmek
+
+learn — öğrenmek
+
+leave — ayrılmak / terk etmek
+
+lend — ödünç vermek
+
+let — izin vermek
+
+like — sevmek / hoşlanmak
+
+listen — dinlemek
+
+live — yaşamak
+
+look — bakmak / görünmek
+
+lose — kaybetmek
+
+make — yapmak
+
+mean — anlamına gelmek / kastetmek
+
+move — hareket etmek / taşınmak
+
+manage — yönetmek / başarmak
+
+marry — evlenmek
+
+measure — ölçmek
+
+meet — tanışmak / buluşmak
+
+miss — özlemek / kaçırmak
+
+need — ihtiyaç duymak
+
+notice — fark etmek
+
+obey — itaat etmek
+
+offer — teklif etmek
+
+open — açmak
+
+organize — organize etmek
+
+owe — borçlu olmak
+
+own — sahip olmak
+
+pass — geçmek / geçirmek
+
+pay — ödemek
+
+perform — gerçekleştirmek / icra etmek
+
+pick — seçmek / toplamak
+
+plan — planlamak
+
+play — oynamak
+
+practice — pratik yapmak
+
+prefer — tercih etmek
+
+prepare — hazırlamak
+
+present — sunmak / tanıtmak
+
+pretend — numara yapmak
+
+prevent — önlemek
+
+produce — üretmek
+
+protect — korumak
+
+prove — kanıtlamak
+
+pull — çekmek
+
+push — itmek
+
+put — koymak
+
+provide — sağlamak
+
+point — işaret etmek
+
+place — yerleştirmek
+
+read — okumak
+
+run — koşmak
+
+raise — yükseltmek
+
+reach — ulaşmak
+
+realize — farkına varmak
+
+receive — almak
+
+recognize — tanımak
+
+record — kaydetmek
+
+reduce — azaltmak
+
+refuse — reddetmek
+
+regret — pişman olmak
+
+relate — ilişkilendirmek
+
+relax — rahatlamak
+
+remember — hatırlamak
+
+remove — kaldırmak
+
+repeat — tekrarlamak
+
+replace — değiştirmek
+
+reply — cevap vermek
+
+report — rapor etmek
+
+require — gerektirmek
+
+return — dönmek / iade etmek
+
+ride — binmek
+
+ring — çalmak
+
+rise — yükselmek
+
+roll — yuvarlanmak
+
+remain — kalmak
+
+represent — temsil etmek
+
+save — kurtarmak, saklamak  
+say — söylemek, demek  
+see — görmek  
+sell — satmak  
+send — göndermek  
+serve — hizmet etmek  
+set — ayarlamak  
+settle — yerleşmek, halletmek  
+shake — sallamak, el sıkışmak  
+share — paylaşmak  
+shoot — ateş etmek  
+show — göstermek  
+shut — kapatmak  
+sign — imzalamak  
+sing — şarkı söylemek  
+sit — oturmak  
+sleep — uyumak  
+smile — gülümsemek  
+solve — çözmek  
+speak — konuşmak  
+spend — harcamak  
+stand — ayakta durmak  
+start — başlamak  
+stay — kalmak  
+steal — çalmak  
+stop — durmak  
+suggest — önermek  
+supply — sağlamak  
+support — desteklemek  
+suppose — varsaymak  
+surprise — şaşırtmak  
+swim — yüzmek  
+seem — görünmek  
+take — almak  
+talk — konuşmak  
+teach — öğretmek  
+tell — anlatmak, söylemek  
+tend — eğiliminde olmak  
+test — test etmek  
+thank — teşekkür etmek  
+think — düşünmek  
+throw — atmak  
+touch — dokunmak  
+train — eğitmek  
+travel — seyahat etmek  
+treat — tedavi etmek, davranmak  
+try — denemek  
+turn — dönmek  
+understand — anlamak  
+use — kullanmak  
+visit — ziyaret etmek  
+wait — beklemek  
+walk — yürümek  
+want — istemek  
+watch — izlemek  
+win — kazanmak  
+wish — dilemek  
+work — çalışmak  
+worry — endişelenmek  
+write — yazmak  
+wear — giymek  
+yell — bağırmak  
+
+may — ebilir (izin anlamında)  
+must — zorunda olmak  
+shall — (resmî gelecek zaman, genelde "olacak")  
+will — ecek (gelecek zaman yardımcı fiili)  
+ought to — meli/-malı (ahlaki yükümlülük)

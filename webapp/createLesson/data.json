@@ -1,0 +1,2697 @@
+{
+  "1": {
+    "id": 1,
+    "tense": "present",
+    "task": "я спрашиваю",
+    "options": ["i", "ask"],
+    "answer": "i ask"
+  },
+  "2": {
+    "id": 2,
+    "tense": "present",
+    "task": "ты не принимаешь",
+    "options": ["you", "don't", "accept"],
+    "answer": "you don't accept"
+  },
+  "3": {
+    "id": 3,
+    "tense": "present",
+    "task": "он позволяет?",
+    "options": ["does", "he", "allow"],
+    "answer": "does he allow?"
+  },
+  "4": {
+    "id": 4,
+    "tense": "present",
+    "task": "она соглашается",
+    "options": ["she", "agrees"],
+    "answer": "she agrees"
+  },
+  "5": {
+    "id": 5,
+    "tense": "present",
+    "task": "они не разрешают",
+    "options": ["they", "don't", "allow"],
+    "answer": "they don't allow"
+  },
+  "6": {
+    "id": 6,
+    "tense": "present",
+    "task": "они объявляют?",
+    "options": ["do", "they", "announce"],
+    "answer": "do they announce?"
+  },
+  "7": {
+    "id": 7,
+    "tense": "present",
+    "task": "она не появляется",
+    "options": ["she", "doesn't", "appear"],
+    "answer": "she doesn't appear"
+  },
+  "8": {
+    "id": 8,
+    "tense": "present",
+    "task": "я появляюсь",
+    "options": ["i", "appear"],
+    "answer": "i appear"
+  },
+  "9": {
+    "id": 9,
+    "tense": "present",
+    "task": "мы прибываем?",
+    "options": ["do", "we", "arrive"],
+    "answer": "do we arrive?"
+  },
+  "10": {
+    "id": 10,
+    "tense": "present",
+    "task": "ты не избегаешь",
+    "options": ["you", "don't", "avoid"],
+    "answer": "you don't avoid"
+  },
+  "11": {
+    "id": 11,
+    "tense": "present",
+    "task": "они становятся",
+    "options": ["they", "become"],
+    "answer": "they become"
+  },
+  "12": {
+    "id": 12,
+    "tense": "present",
+    "task": "она начинает?",
+    "options": ["does", "she", "begin"],
+    "answer": "does she begin?"
+  },
+  "13": {
+    "id": 13,
+    "tense": "present",
+    "task": "вы не верите",
+    "options": ["you", "don't", "believe"],
+    "answer": "you don't believe"
+  },
+  "14": {
+    "id": 14,
+    "tense": "present",
+    "task": "ты приносишь",
+    "options": ["you", "bring"],
+    "answer": "you bring"
+  },
+  "15": {
+    "id": 15,
+    "tense": "present",
+    "task": "я строю?",
+    "options": ["do", "i", "build"],
+    "answer": "do i build?"
+  },
+  "16": {
+    "id": 16,
+    "tense": "present",
+    "task": "мы не покупаем",
+    "options": ["we", "don't", "buy"],
+    "answer": "we don't buy"
+  },
+  "17": {
+    "id": 17,
+    "tense": "present",
+    "task": "вы бьёте?",
+    "options": ["do", "you", "hit"],
+    "answer": "do you hit?"
+  },
+  "18": {
+    "id": 18,
+    "tense": "present",
+    "task": "она занимает",
+    "options": ["she", "borrows"],
+    "answer": "she borrows"
+  },
+  "19": {
+    "id": 19,
+    "tense": "present",
+    "task": "я не ломаю",
+    "options": ["i", "don't", "break"],
+    "answer": "i don't break"
+  },
+  "20": {
+    "id": 20,
+    "tense": "present",
+    "task": "они ломают?",
+    "options": ["do", "they", "break"],
+    "answer": "do they break?"
+  },
+  "21": {
+    "id": 21,
+    "tense": "present",
+    "task": "вы есть",
+    "options": ["you", "exist"],
+    "answer": "you exist"
+  },
+  "22": {
+    "id": 22,
+    "tense": "present",
+    "task": "он не звонит",
+    "options": ["he", "doesn't", "call"],
+    "answer": "he doesn't call"
+  },
+  "23": {
+    "id": 23,
+    "tense": "present",
+    "task": "я меняю?",
+    "options": ["change", "i", "do"],
+    "answer": "do i change?"
+  },
+  "24": {
+    "id": 24,
+    "tense": "present",
+    "task": "она несёт",
+    "options": ["she", "carries"],
+    "answer": "she carries"
+  },
+  "25": {
+    "id": 25,
+    "tense": "present",
+    "task": "вы не ловите",
+    "options": ["you", "don't", "catch"],
+    "answer": "you don't catch"
+  },
+  "26": {
+    "id": 26,
+    "tense": "present",
+    "task": "мы меняем?",
+    "options": ["do", "we", "change"],
+    "answer": "do we change?"
+  },
+  "27": {
+    "id": 27,
+    "tense": "present",
+    "task": "я прихожу",
+    "options": ["i", "come"],
+    "answer": "i come"
+  },
+  "28": {
+    "id": 28,
+    "tense": "future",
+    "task": "вы не будете спрашивать",
+    "options": ["you", "won't", "ask"],
+    "answer": "you won't ask"
+  },
+  "29": {
+    "id": 29,
+    "tense": "future",
+    "task": "они примут?",
+    "options": ["will", "they", "accept"],
+    "answer": "will they accept?"
+  },
+  "30": {
+    "id": 30,
+    "tense": "future",
+    "task": "я позволю",
+    "options": ["i", "will", "allow"],
+    "answer": "i will allow"
+  },
+  "31": {
+    "id": 31,
+    "tense": "future",
+    "task": "мы не согласимся",
+    "options": ["we", "won't", "agree"],
+    "answer": "we won't agree"
+  },
+  "32": {
+    "id": 32,
+    "tense": "future",
+    "task": "я разрешу?",
+    "options": ["will", "i", "allow"],
+    "answer": "will i allow?"
+  },
+  "33": {
+    "id": 33,
+    "tense": "future",
+    "task": "я объявлю",
+    "options": ["i", "will", "announce"],
+    "answer": "i will announce"
+  },
+  "34": {
+    "id": 34,
+    "tense": "future",
+    "task": "мы появимся?",
+    "options": ["will", "we", "appear"],
+    "answer": "will we appear?"
+  },
+  "35": {
+    "id": 35,
+    "tense": "future",
+    "task": "он не появится",
+    "options": ["he", "won't", "appear"],
+    "answer": "he won't appear"
+  },
+  "36": {
+    "id": 36,
+    "tense": "future",
+    "task": "они прибудут",
+    "options": ["they", "will", "arrive"],
+    "answer": "they will arrive"
+  },
+  "37": {
+    "id": 37,
+    "tense": "future",
+    "task": "она будет избегать?",
+    "options": ["will", "she", "avoid"],
+    "answer": "will she avoid?"
+  },
+  "38": {
+    "id": 38,
+    "tense": "future",
+    "task": "я не стану",
+    "options": ["i", "won't", "become"],
+    "answer": "i won't become"
+  },
+  "39": {
+    "id": 39,
+    "tense": "future",
+    "task": "мы начнём",
+    "options": ["we", "will", "begin"],
+    "answer": "we will begin"
+  },
+  "40": {
+    "id": 40,
+    "tense": "future",
+    "task": "он поверит?",
+    "options": ["will", "he", "believe"],
+    "answer": "will he believe?"
+  },
+  "41": {
+    "id": 41,
+    "tense": "future",
+    "task": "они не принесут",
+    "options": ["they", "won't", "bring"],
+    "answer": "they won't bring"
+  },
+  "42": {
+    "id": 42,
+    "tense": "future",
+    "task": "она построит",
+    "options": ["she", "will", "build"],
+    "answer": "she will build"
+  },
+  "43": {
+    "id": 43,
+    "tense": "future",
+    "task": "он купит?",
+    "options": ["will", "he", "buy"],
+    "answer": "will he buy?"
+  },
+  "44": {
+    "id": 44,
+    "tense": "future",
+    "task": "я победю",
+    "options": ["i", "will", "win"],
+    "answer": "i will win"
+  },
+  "45": {
+    "id": 45,
+    "tense": "future",
+    "task": "ты не займёшь",
+    "options": ["you", "won't", "borrow"],
+    "answer": "you won't borrow"
+  },
+  "46": {
+    "id": 46,
+    "tense": "future",
+    "task": "вы сломаете?",
+    "options": ["will", "you", "break"],
+    "answer": "will you break?"
+  },
+  "47": {
+    "id": 47,
+    "tense": "future",
+    "task": "ты сожжёшь",
+    "options": ["you", "will", "burn"],
+    "answer": "you will burn"
+  },
+  "48": {
+    "id": 48,
+    "tense": "future",
+    "task": "она не позвонит",
+    "options": ["she", "won't", "call"],
+    "answer": "she won't call"
+  },
+  "49": {
+    "id": 49,
+    "tense": "future",
+    "task": "мы позвоним?",
+    "options": ["will", "we", "call"],
+    "answer": "will we call?"
+  },
+  "50": {
+    "id": 50,
+    "tense": "future",
+    "task": "они позвонят",
+    "options": ["they", "will", "call"],
+    "answer": "they will call"
+  },
+  "51": {
+    "id": 51,
+    "tense": "future",
+    "task": "ты не понесёшь",
+    "options": ["you", "won't", "carry"],
+    "answer": "you won't carry"
+  },
+  "52": {
+    "id": 52,
+    "tense": "future",
+    "task": "он поймает?",
+    "options": ["will", "he", "catch"],
+    "answer": "will he catch?"
+  },
+  "53": {
+    "id": 53,
+    "tense": "future",
+    "task": "ты изменишь",
+    "options": ["you", "will", "change"],
+    "answer": "you will change"
+  },
+  "54": {
+    "id": 54,
+    "tense": "future",
+    "task": "она не приедет",
+    "options": ["she", "won't", "arrive"],
+    "answer": "she won't arrive"
+  },
+  "55": {
+    "id": 55,
+    "tense": "past",
+    "task": "она спрашивала?",
+    "options": ["did", "she", "ask"],
+    "answer": "did she ask?"
+  },
+  "56": {
+    "id": 56,
+    "tense": "past",
+    "task": "мы приняли",
+    "options": ["we", "accepted"],
+    "answer": "we accepted"
+  },
+  "57": {
+    "id": 57,
+    "tense": "past",
+    "task": "вы не позволили",
+    "options": ["you", "didn't", "allow"],
+    "answer": "you didn't allow"
+  },
+  "58": {
+    "id": 58,
+    "tense": "past",
+    "task": "ты соглашался?",
+    "options": ["did", "you", "agree"],
+    "answer": "did you agree?"
+  },
+  "59": {
+    "id": 59,
+    "tense": "past",
+    "task": "вы разрешили",
+    "options": ["you", "allowed"],
+    "answer": "you allowed"
+  },
+  "60": {
+    "id": 60,
+    "tense": "past",
+    "task": "ты не объявлял",
+    "options": ["you", "didn't", "announce"],
+    "answer": "you didn't announce"
+  },
+  "61": {
+    "id": 61,
+    "tense": "past",
+    "task": "вы избегали",
+    "options": ["you", "avoided"],
+    "answer": "you avoided"
+  },
+  "62": {
+    "id": 62,
+    "tense": "past",
+    "task": "ты появлялся?",
+    "options": ["did", "you", "appear"],
+    "answer": "did you appear?"
+  },
+  "63": {
+    "id": 63,
+    "tense": "past",
+    "task": "вы не прибыли",
+    "options": ["you", "didn't", "arrive"],
+    "answer": "you didn't arrive"
+  },
+  "64": {
+    "id": 64,
+    "tense": "past",
+    "task": "я избегал",
+    "options": ["i", "avoided"],
+    "answer": "i avoided"
+  },
+  "65": {
+    "id": 65,
+    "tense": "past",
+    "task": "вы становились?",
+    "options": ["did", "you", "become"],
+    "answer": "did you become?"
+  },
+  "66": {
+    "id": 66,
+    "tense": "past",
+    "task": "ты не начинал",
+    "options": ["you", "didn't", "begin"],
+    "answer": "you didn't begin"
+  },
+  "67": {
+    "id": 67,
+    "tense": "past",
+    "task": "я верил",
+    "options": ["i", "believed"],
+    "answer": "i believed"
+  },
+  "68": {
+    "id": 68,
+    "tense": "past",
+    "task": "мы приносили?",
+    "options": ["did", "we", "bring"],
+    "answer": "did we bring?"
+  },
+  "69": {
+    "id": 69,
+    "tense": "past",
+    "task": "вы не строили",
+    "options": ["you", "didn't", "build"],
+    "answer": "you didn't build"
+  },
+  "70": {
+    "id": 70,
+    "tense": "past",
+    "task": "ты покупал",
+    "options": ["you", "bought"],
+    "answer": "you bought"
+  },
+  "71": {
+    "id": 71,
+    "tense": "past",
+    "task": "они не били",
+    "options": ["they", "didn't", "hit"],
+    "answer": "they didn't hit"
+  },
+  "72": {
+    "id": 72,
+    "tense": "past",
+    "task": "мы занимали?",
+    "options": ["did", "we", "borrow"],
+    "answer": "did we borrow?"
+  },
+  "73": {
+    "id": 73,
+    "tense": "past",
+    "task": "он ломал",
+    "options": ["he", "broke"],
+    "answer": "he broke"
+  },
+  "74": {
+    "id": 74,
+    "tense": "past",
+    "task": "мы не горели",
+    "options": ["we", "didn't", "burn"],
+    "answer": "we didn't burn"
+  },
+  "75": {
+    "id": 75,
+    "tense": "past",
+    "task": "я звал",
+    "options": ["звал", "i"],
+    "answer": "i called"
+  },
+  "76": {
+    "id": 76,
+    "tense": "past",
+    "task": "ты звал",
+    "options": ["you", "called"],
+    "answer": "you called"
+  },
+  "77": {
+    "id": 77,
+    "tense": "past",
+    "task": "вы несли",
+    "options": ["you", "carried"],
+    "answer": "you carried"
+  },
+  "78": {
+    "id": 78,
+    "tense": "past",
+    "task": "мы несли?",
+    "options": ["did", "we", "carry"],
+    "answer": "did we carry?"
+  },
+  "79": {
+    "id": 79,
+    "tense": "past",
+    "task": "я ловил",
+    "options": ["i", "caught"],
+    "answer": "i caught"
+  },
+  "80": {
+    "id": 80,
+    "tense": "past",
+    "task": "они не меняли",
+    "options": ["they", "didn't", "change"],
+    "answer": "they didn't change"
+  },
+  "81": {
+    "id": 81,
+    "tense": "past",
+    "task": "вы приходили?",
+    "options": ["did", "you", "come"],
+    "answer": "did you come?"
+  },
+  "82": {
+    "id": 82,
+    "tense": "present",
+    "task": "я продолжаю",
+    "options": ["i", "continue"],
+    "answer": "i continue"
+  },
+  "83": {
+    "id": 83,
+    "tense": "present",
+    "task": "ты не стоишь",
+    "options": ["you", "don't", "cost"],
+    "answer": "you don't cost"
+  },
+  "84": {
+    "id": 84,
+    "tense": "present",
+    "task": "он празднует?",
+    "options": ["does", "he", "celebrate"],
+    "answer": "does he celebrate?"
+  },
+  "85": {
+    "id": 85,
+    "tense": "present",
+    "task": "она проверяет",
+    "options": ["she", "checks"],
+    "answer": "she checks"
+  },
+  "86": {
+    "id": 86,
+    "tense": "present",
+    "task": "они не выбирают",
+    "options": ["they", "don't", "choose"],
+    "answer": "they don't choose"
+  },
+  "87": {
+    "id": 87,
+    "tense": "present",
+    "task": "мы чистим?",
+    "options": ["do", "we", "clean"],
+    "answer": "do we clean?"
+  },
+  "88": {
+    "id": 88,
+    "tense": "present",
+    "task": "ты не карабкаешься",
+    "options": ["you", "don't", "climb"],
+    "answer": "you don't climb"
+  },
+  "89": {
+    "id": 89,
+    "tense": "present",
+    "task": "он закрывает?",
+    "options": ["does", "he", "close"],
+    "answer": "does he close?"
+  },
+  "90": {
+    "id": 90,
+    "tense": "present",
+    "task": "я сравниваю",
+    "options": ["i", "compare"],
+    "answer": "i compare"
+  },
+  "91": {
+    "id": 91,
+    "tense": "present",
+    "task": "вы не жалуетесь",
+    "options": ["you", "don't", "complain"],
+    "answer": "you don't complain"
+  },
+  "92": {
+    "id": 92,
+    "tense": "present",
+    "task": "она готовит?",
+    "options": ["does", "she", "cook"],
+    "answer": "does she cook?"
+  },
+  "93": {
+    "id": 93,
+    "tense": "present",
+    "task": "мы копируем",
+    "options": ["we", "copy"],
+    "answer": "we copy"
+  },
+  "94": {
+    "id": 94,
+    "tense": "present",
+    "task": "ты не исправляешь",
+    "options": ["you", "don't", "correct"],
+    "answer": "you don't correct"
+  },
+  "95": {
+    "id": 95,
+    "tense": "present",
+    "task": "он кричит?",
+    "options": ["does", "he", "cry"],
+    "answer": "does he cry?"
+  },
+  "96": {
+    "id": 96,
+    "tense": "present",
+    "task": "я режу",
+    "options": ["i", "cut"],
+    "answer": "i cut"
+  },
+  "97": {
+    "id": 97,
+    "tense": "present",
+    "task": "вы не считаете",
+    "options": ["you", "don't", "count"],
+    "answer": "you don't count"
+  },
+  "98": {
+    "id": 98,
+    "tense": "present",
+    "task": "она покрывает?",
+    "options": ["does", "she", "cover"],
+    "answer": "does she cover?"
+  },
+  "99": {
+    "id": 99,
+    "tense": "present",
+    "task": "мы вызываем",
+    "options": ["we", "cause"],
+    "answer": "we cause"
+  },
+  "100": {
+    "id": 100,
+    "tense": "present",
+    "task": "ты не делаешь",
+    "options": ["you", "don't", "do"],
+    "answer": "you don't do"
+  },
+  "101": {
+    "id": 101,
+    "tense": "present",
+    "task": "он пьёт?",
+    "options": ["does", "he", "drink"],
+    "answer": "does he drink?"
+  },
+  "102": {
+    "id": 102,
+    "tense": "present",
+    "task": "я вожу",
+    "options": ["i", "drive"],
+    "answer": "i drive"
+  },
+  "103": {
+    "id": 103,
+    "tense": "present",
+    "task": "вы не танцуете",
+    "options": ["you", "don't", "dance"],
+    "answer": "you don't dance"
+  },
+  "104": {
+    "id": 104,
+    "tense": "present",
+    "task": "она решает?",
+    "options": ["does", "she", "decide"],
+    "answer": "does she decide?"
+  },
+  "105": {
+    "id": 105,
+    "tense": "present",
+    "task": "мы доставляем",
+    "options": ["we", "deliver"],
+    "answer": "we deliver"
+  },
+  "106": {
+    "id": 106,
+    "tense": "present",
+    "task": "ты не описываешь",
+    "options": ["you", "don't", "describe"],
+    "answer": "you don't describe"
+  },
+  "107": {
+    "id": 107,
+    "tense": "present",
+    "task": "он открывает?",
+    "options": ["does", "he", "open"],
+    "answer": "does he open?"
+  },
+  "108": {
+    "id": 108,
+    "tense": "present",
+    "task": "я обсуждаю",
+    "options": ["i", "discuss"],
+    "answer": "i discuss"
+  },
+  "109": {
+    "id": 109,
+    "tense": "present",
+    "task": "вы не делите",
+    "options": ["you", "don't", "divide"],
+    "answer": "you don't divide"
+  },
+  "110": {
+    "id": 110,
+    "tense": "present",
+    "task": "она удваивает?",
+    "options": ["does", "she", "double"],
+    "answer": "does she double?"
+  },
+  "111": {
+    "id": 111,
+    "tense": "present",
+    "task": "мы сомневаемся",
+    "options": ["we", "doubt"],
+    "answer": "we doubt"
+  },
+  "112": {
+    "id": 112,
+    "tense": "present",
+    "task": "ты не тащишь",
+    "options": ["you", "don't", "drag"],
+    "answer": "you don't drag"
+  },
+  "113": {
+    "id": 113,
+    "tense": "present",
+    "task": "он рисует?",
+    "options": ["does", "he", "draw"],
+    "answer": "does he draw?"
+  },
+  "114": {
+    "id": 114,
+    "tense": "future",
+    "task": "я продолжу",
+    "options": ["i", "will", "continue"],
+    "answer": "i will continue"
+  },
+  "115": {
+    "id": 115,
+    "tense": "future",
+    "task": "ты не будешь стоить",
+    "options": ["you", "won't", "cost"],
+    "answer": "you won't cost"
+  },
+  "116": {
+    "id": 116,
+    "tense": "future",
+    "task": "он будет праздновать?",
+    "options": ["will", "he", "celebrate"],
+    "answer": "will he celebrate?"
+  },
+  "117": {
+    "id": 117,
+    "tense": "future",
+    "task": "она проверит",
+    "options": ["she", "will", "check"],
+    "answer": "she will check"
+  },
+  "118": {
+    "id": 118,
+    "tense": "future",
+    "task": "они не выберут",
+    "options": ["they", "won't", "choose"],
+    "answer": "they won't choose"
+  },
+  "119": {
+    "id": 119,
+    "tense": "future",
+    "task": "мы почистим?",
+    "options": ["will", "we", "clean"],
+    "answer": "will we clean?"
+  },
+  "120": {
+    "id": 120,
+    "tense": "future",
+    "task": "ты не будешь карабкаться",
+    "options": ["you", "won't", "climb"],
+    "answer": "you won't climb"
+  },
+  "121": {
+    "id": 121,
+    "tense": "future",
+    "task": "он закроет?",
+    "options": ["will", "he", "close"],
+    "answer": "will he close?"
+  },
+  "122": {
+    "id": 122,
+    "tense": "future",
+    "task": "я сравню",
+    "options": ["i", "will", "compare"],
+    "answer": "i will compare"
+  },
+  "123": {
+    "id": 123,
+    "tense": "future",
+    "task": "вы не пожалуетесь",
+    "options": ["you", "won't", "complain"],
+    "answer": "you won't complain"
+  },
+  "124": {
+    "id": 124,
+    "tense": "future",
+    "task": "она приготовит?",
+    "options": ["will", "she", "cook"],
+    "answer": "will she cook?"
+  },
+  "125": {
+    "id": 125,
+    "tense": "future",
+    "task": "мы скопируем",
+    "options": ["we", "will", "copy"],
+    "answer": "we will copy"
+  },
+  "126": {
+    "id": 126,
+    "tense": "future",
+    "task": "ты не исправишь",
+    "options": ["you", "won't", "correct"],
+    "answer": "you won't correct"
+  },
+  "127": {
+    "id": 127,
+    "tense": "future",
+    "task": "он закричит?",
+    "options": ["will", "he", "cry"],
+    "answer": "will he cry?"
+  },
+  "128": {
+    "id": 128,
+    "tense": "future",
+    "task": "я порежу",
+    "options": ["i", "will", "cut"],
+    "answer": "i will cut"
+  },
+  "129": {
+    "id": 129,
+    "tense": "future",
+    "task": "вы не посчитаете",
+    "options": ["you", "won't", "count"],
+    "answer": "you won't count"
+  },
+  "130": {
+    "id": 130,
+    "tense": "future",
+    "task": "она покроет?",
+    "options": ["will", "she", "cover"],
+    "answer": "will she cover?"
+  },
+  "131": {
+    "id": 131,
+    "tense": "future",
+    "task": "мы вызовем",
+    "options": ["we", "will", "cause"],
+    "answer": "we will cause"
+  },
+  "132": {
+    "id": 132,
+    "tense": "future",
+    "task": "ты не сделаешь",
+    "options": ["you", "won't", "do"],
+    "answer": "you won't do"
+  },
+  "133": {
+    "id": 133,
+    "tense": "future",
+    "task": "он выпьет?",
+    "options": ["will", "he", "drink"],
+    "answer": "will he drink?"
+  },
+  "134": {
+    "id": 134,
+    "tense": "future",
+    "task": "я буду водить",
+    "options": ["i", "will", "drive"],
+    "answer": "i will drive"
+  },
+  "135": {
+    "id": 135,
+    "tense": "future",
+    "task": "вы не станете танцевать",
+    "options": ["you", "won't", "dance"],
+    "answer": "you won't dance"
+  },
+  "136": {
+    "id": 136,
+    "tense": "future",
+    "task": "она решит?",
+    "options": ["will", "she", "decide"],
+    "answer": "will she decide?"
+  },
+  "137": {
+    "id": 137,
+    "tense": "future",
+    "task": "мы доставим",
+    "options": ["we", "will", "deliver"],
+    "answer": "we will deliver"
+  },
+  "138": {
+    "id": 138,
+    "tense": "future",
+    "task": "ты не опишешь",
+    "options": ["you", "won't", "describe"],
+    "answer": "you won't describe"
+  },
+  "139": {
+    "id": 139,
+    "tense": "future",
+    "task": "он откроет?",
+    "options": ["will", "he", "open"],
+    "answer": "will he open?"
+  },
+  "140": {
+    "id": 140,
+    "tense": "future",
+    "task": "я обсужу",
+    "options": ["i", "will", "discuss"],
+    "answer": "i will discuss"
+  },
+  "141": {
+    "id": 141,
+    "tense": "future",
+    "task": "вы не поделите",
+    "options": ["you", "won't", "divide"],
+    "answer": "you won't divide"
+  },
+  "142": {
+    "id": 142,
+    "tense": "future",
+    "task": "она удвоит?",
+    "options": ["will", "she", "double"],
+    "answer": "will she double?"
+  },
+  "143": {
+    "id": 143,
+    "tense": "future",
+    "task": "мы усомнимся",
+    "options": ["we", "will", "doubt"],
+    "answer": "we will doubt"
+  },
+  "144": {
+    "id": 144,
+    "tense": "future",
+    "task": "ты не станешь тащить",
+    "options": ["you", "won't", "drag"],
+    "answer": "you won't drag"
+  },
+  "145": {
+    "id": 145,
+    "tense": "future",
+    "task": "он нарисует?",
+    "options": ["will", "he", "draw"],
+    "answer": "will he draw?"
+  },
+  "146": {
+    "id": 146,
+    "tense": "past",
+    "task": "я продолжал",
+    "options": ["i", "continued"],
+    "answer": "i continued"
+  },
+  "147": {
+    "id": 147,
+    "tense": "past",
+    "task": "ты не стоил",
+    "options": ["you", "didn't", "cost"],
+    "answer": "you didn't cost"
+  },
+  "148": {
+    "id": 148,
+    "tense": "past",
+    "task": "он праздновал?",
+    "options": ["did", "he", "celebrate"],
+    "answer": "did he celebrate?"
+  },
+  "149": {
+    "id": 149,
+    "tense": "past",
+    "task": "она проверяла",
+    "options": ["she", "checked"],
+    "answer": "she checked"
+  },
+  "150": {
+    "id": 150,
+    "tense": "past",
+    "task": "они не выбирали",
+    "options": ["they", "didn't", "choose"],
+    "answer": "they didn't choose"
+  },
+  "151": {
+    "id": 151,
+    "tense": "past",
+    "task": "мы чистили?",
+    "options": ["did", "we", "clean"],
+    "answer": "did we clean?"
+  },
+  "152": {
+    "id": 152,
+    "tense": "past",
+    "task": "ты не карабкался",
+    "options": ["you", "didn't", "climb"],
+    "answer": "you didn't climb"
+  },
+  "153": {
+    "id": 153,
+    "tense": "past",
+    "task": "он закрыл?",
+    "options": ["did", "he", "close"],
+    "answer": "did he close?"
+  },
+  "154": {
+    "id": 154,
+    "tense": "past",
+    "task": "я сравнивал",
+    "options": ["i", "compared"],
+    "answer": "i compared"
+  },
+  "155": {
+    "id": 155,
+    "tense": "past",
+    "task": "вы не жаловались",
+    "options": ["you", "didn't", "complain"],
+    "answer": "you didn't complain"
+  },
+  "156": {
+    "id": 156,
+    "tense": "past",
+    "task": "она готовила?",
+    "options": ["did", "she", "cook"],
+    "answer": "did she cook?"
+  },
+  "157": {
+    "id": 157,
+    "tense": "past",
+    "task": "мы копировали",
+    "options": ["we", "copied"],
+    "answer": "we copied"
+  },
+  "158": {
+    "id": 158,
+    "tense": "past",
+    "task": "ты не исправлял",
+    "options": ["you", "didn't", "correct"],
+    "answer": "you didn't correct"
+  },
+  "159": {
+    "id": 159,
+    "tense": "past",
+    "task": "он кричал?",
+    "options": ["did", "he", "cry"],
+    "answer": "did he cry?"
+  },
+  "160": {
+    "id": 160,
+    "tense": "past",
+    "task": "я резал",
+    "options": ["i", "cut"],
+    "answer": "i cut"
+  },
+  "161": {
+    "id": 161,
+    "tense": "past",
+    "task": "вы не считали",
+    "options": ["you", "didn't", "count"],
+    "answer": "you didn't count"
+  },
+  "162": {
+    "id": 162,
+    "tense": "past",
+    "task": "она покрывала?",
+    "options": ["did", "she", "cover"],
+    "answer": "did she cover?"
+  },
+  "163": {
+    "id": 163,
+    "tense": "present",
+    "task": "я одеваюсь",
+    "options": ["i", "dress"],
+    "answer": "i dress"
+  },
+  "164": {
+    "id": 164,
+    "tense": "present",
+    "task": "ты не роняешь",
+    "options": ["you", "don't", "drop"],
+    "answer": "you don't drop"
+  },
+  "165": {
+    "id": 165,
+    "tense": "present",
+    "task": "он сушит?",
+    "options": ["does", "he", "dry"],
+    "answer": "does he dry?"
+  },
+  "166": {
+    "id": 166,
+    "tense": "present",
+    "task": "она умирает",
+    "options": ["she", "dies"],
+    "answer": "she dies"
+  },
+  "167": {
+    "id": 167,
+    "tense": "present",
+    "task": "они не развивают",
+    "options": ["they", "don't", "develop"],
+    "answer": "they don't develop"
+  },
+  "168": {
+    "id": 168,
+    "tense": "present",
+    "task": "мы смеем?",
+    "options": ["do", "we", "dare"],
+    "answer": "do we dare?"
+  },
+  "169": {
+    "id": 169,
+    "tense": "present",
+    "task": "ты не ешь",
+    "options": ["you", "don't", "eat"],
+    "answer": "you don't eat"
+  },
+  "170": {
+    "id": 170,
+    "tense": "present",
+    "task": "он зарабатывает?",
+    "options": ["does", "he", "earn"],
+    "answer": "does he earn?"
+  },
+  "171": {
+    "id": 171,
+    "tense": "present",
+    "task": "я наслаждаюсь",
+    "options": ["i", "enjoy"],
+    "answer": "i enjoy"
+  },
+  "172": {
+    "id": 172,
+    "tense": "present",
+    "task": "вы не убегаете",
+    "options": ["you", "don't", "escape"],
+    "answer": "you don't escape"
+  },
+  "173": {
+    "id": 173,
+    "tense": "present",
+    "task": "она объясняет?",
+    "options": ["does", "she", "explain"],
+    "answer": "does she explain?"
+  },
+  "174": {
+    "id": 174,
+    "tense": "present",
+    "task": "мы ожидаем",
+    "options": ["we", "expect"],
+    "answer": "we expect"
+  },
+  "175": {
+    "id": 175,
+    "tense": "present",
+    "task": "ты не чувствуешь",
+    "options": ["you", "don't", "feel"],
+    "answer": "you don't feel"
+  },
+  "176": {
+    "id": 176,
+    "tense": "present",
+    "task": "он находит?",
+    "options": ["does", "he", "find"],
+    "answer": "does he find?"
+  },
+  "177": {
+    "id": 177,
+    "tense": "present",
+    "task": "я забываю",
+    "options": ["i", "forget"],
+    "answer": "i forget"
+  },
+  "178": {
+    "id": 178,
+    "tense": "present",
+    "task": "вы не падаете",
+    "options": ["you", "don't", "fall"],
+    "answer": "you don't fall"
+  },
+  "179": {
+    "id": 179,
+    "tense": "present",
+    "task": "она кормит?",
+    "options": ["does", "she", "feed"],
+    "answer": "does she feed?"
+  },
+  "180": {
+    "id": 180,
+    "tense": "present",
+    "task": "мы боремся",
+    "options": ["we", "fight"],
+    "answer": "we fight"
+  },
+  "181": {
+    "id": 181,
+    "tense": "present",
+    "task": "ты не заполняешь",
+    "options": ["you", "don't", "fill"],
+    "answer": "you don't fill"
+  },
+  "182": {
+    "id": 182,
+    "tense": "present",
+    "task": "он заканчивает?",
+    "options": ["does", "he", "finish"],
+    "answer": "does he finish?"
+  },
+  "183": {
+    "id": 183,
+    "tense": "present",
+    "task": "я лечу",
+    "options": ["i", "fly"],
+    "answer": "i fly"
+  },
+  "184": {
+    "id": 184,
+    "tense": "future",
+    "task": "ты оденешься",
+    "options": ["you", "will", "dress"],
+    "answer": "you will dress"
+  },
+  "185": {
+    "id": 185,
+    "tense": "future",
+    "task": "он не уронит",
+    "options": ["he", "won't", "drop"],
+    "answer": "he won't drop"
+  },
+  "186": {
+    "id": 186,
+    "tense": "future",
+    "task": "она высушит?",
+    "options": ["will", "she", "dry"],
+    "answer": "will she dry?"
+  },
+  "187": {
+    "id": 187,
+    "tense": "future",
+    "task": "мы не умрём",
+    "options": ["we", "won't", "die"],
+    "answer": "we won't die"
+  },
+  "188": {
+    "id": 188,
+    "tense": "future",
+    "task": "ты разовьёшь?",
+    "options": ["will", "you", "develop"],
+    "answer": "will you develop?"
+  },
+  "189": {
+    "id": 189,
+    "tense": "future",
+    "task": "я посмею",
+    "options": ["i", "will", "dare"],
+    "answer": "i will dare"
+  },
+  "190": {
+    "id": 190,
+    "tense": "future",
+    "task": "вы не съедите",
+    "options": ["you", "won't", "eat"],
+    "answer": "you won't eat"
+  },
+  "191": {
+    "id": 191,
+    "tense": "future",
+    "task": "она заработает?",
+    "options": ["will", "she", "earn"],
+    "answer": "will she earn?"
+  },
+  "192": {
+    "id": 192,
+    "tense": "future",
+    "task": "ты насладишься",
+    "options": ["you", "will", "enjoy"],
+    "answer": "you will enjoy"
+  },
+  "193": {
+    "id": 193,
+    "tense": "future",
+    "task": "он не убежит",
+    "options": ["he", "won't", "escape"],
+    "answer": "he won't escape"
+  },
+  "194": {
+    "id": 194,
+    "tense": "future",
+    "task": "мы объясним?",
+    "options": ["will", "we", "explain"],
+    "answer": "will we explain?"
+  },
+  "195": {
+    "id": 195,
+    "tense": "future",
+    "task": "я не буду ожидать",
+    "options": ["i", "won't", "expect"],
+    "answer": "i won't expect"
+  },
+  "196": {
+    "id": 196,
+    "tense": "future",
+    "task": "ты почувствуешь?",
+    "options": ["will", "you", "feel"],
+    "answer": "will you feel?"
+  },
+  "197": {
+    "id": 197,
+    "tense": "future",
+    "task": "она найдёт",
+    "options": ["she", "will", "find"],
+    "answer": "she will find"
+  },
+  "198": {
+    "id": 198,
+    "tense": "future",
+    "task": "вы не забудете",
+    "options": ["you", "won't", "forget"],
+    "answer": "you won't forget"
+  },
+  "199": {
+    "id": 199,
+    "tense": "future",
+    "task": "я упаду?",
+    "options": ["will", "i", "fall"],
+    "answer": "will i fall?"
+  },
+  "200": {
+    "id": 200,
+    "tense": "future",
+    "task": "ты покормишь",
+    "options": ["you", "will", "feed"],
+    "answer": "you will feed"
+  },
+  "201": {
+    "id": 201,
+    "tense": "future",
+    "task": "он не будет драться",
+    "options": ["he", "won't", "fight"],
+    "answer": "he won't fight"
+  },
+  "202": {
+    "id": 202,
+    "tense": "future",
+    "task": "мы заполним?",
+    "options": ["will", "we", "fill"],
+    "answer": "will we fill?"
+  },
+  "203": {
+    "id": 203,
+    "tense": "future",
+    "task": "я закончу",
+    "options": ["i", "will", "finish"],
+    "answer": "i will finish"
+  },
+  "204": {
+    "id": 204,
+    "tense": "future",
+    "task": "вы не полетите",
+    "options": ["you", "won't", "fly"],
+    "answer": "you won't fly"
+  },
+  "205": {
+    "id": 205,
+    "tense": "past",
+    "task": "я одевался",
+    "options": ["i", "dressed"],
+    "answer": "i dressed"
+  },
+  "206": {
+    "id": 206,
+    "tense": "past",
+    "task": "ты не ронял",
+    "options": ["you", "didn't", "drop"],
+    "answer": "you didn't drop"
+  },
+  "207": {
+    "id": 207,
+    "tense": "past",
+    "task": "он сушил?",
+    "options": ["did", "he", "dry"],
+    "answer": "did he dry?"
+  },
+  "208": {
+    "id": 208,
+    "tense": "past",
+    "task": "она умерла",
+    "options": ["she", "died"],
+    "answer": "she died"
+  },
+  "209": {
+    "id": 209,
+    "tense": "past",
+    "task": "они не развивали",
+    "options": ["they", "didn't", "develop"],
+    "answer": "they didn't develop"
+  },
+  "210": {
+    "id": 210,
+    "tense": "past",
+    "task": "мы смели?",
+    "options": ["did", "we", "dare"],
+    "answer": "did we dare?"
+  },
+  "211": {
+    "id": 211,
+    "tense": "past",
+    "task": "ты не ел",
+    "options": ["you", "didn't", "eat"],
+    "answer": "you didn't eat"
+  },
+  "212": {
+    "id": 212,
+    "tense": "past",
+    "task": "он зарабатывал?",
+    "options": ["did", "he", "earn"],
+    "answer": "did he earn?"
+  },
+  "213": {
+    "id": 213,
+    "tense": "past",
+    "task": "я наслаждался",
+    "options": ["i", "enjoyed"],
+    "answer": "i enjoyed"
+  },
+  "214": {
+    "id": 214,
+    "tense": "past",
+    "task": "вы не убегали",
+    "options": ["you", "didn't", "escape"],
+    "answer": "you didn't escape"
+  },
+  "215": {
+    "id": 215,
+    "tense": "past",
+    "task": "она объясняла?",
+    "options": ["did", "she", "explain"],
+    "answer": "did she explain?"
+  },
+  "216": {
+    "id": 216,
+    "tense": "past",
+    "task": "мы ожидали",
+    "options": ["we", "expected"],
+    "answer": "we expected"
+  },
+  "217": {
+    "id": 217,
+    "tense": "past",
+    "task": "ты не чувствовал",
+    "options": ["you", "didn't", "feel"],
+    "answer": "you didn't feel"
+  },
+  "218": {
+    "id": 218,
+    "tense": "past",
+    "task": "он нашёл?",
+    "options": ["did", "he", "find"],
+    "answer": "did he find?"
+  },
+  "219": {
+    "id": 219,
+    "tense": "past",
+    "task": "я забыл",
+    "options": ["i", "forgot"],
+    "answer": "i forgot"
+  },
+  "220": {
+    "id": 220,
+    "tense": "past",
+    "task": "вы не падали",
+    "options": ["you", "didn't", "fall"],
+    "answer": "you didn't fall"
+  },
+  "221": {
+    "id": 221,
+    "tense": "past",
+    "task": "она кормила?",
+    "options": ["did", "she", "feed"],
+    "answer": "did she feed?"
+  },
+  "222": {
+    "id": 222,
+    "tense": "past",
+    "task": "мы боролись",
+    "options": ["we", "fought"],
+    "answer": "we fought"
+  },
+  "223": {
+    "id": 223,
+    "tense": "past",
+    "task": "ты не заполнял",
+    "options": ["you", "didn't", "fill"],
+    "answer": "you didn't fill"
+  },
+  "224": {
+    "id": 224,
+    "tense": "past",
+    "task": "он закончил?",
+    "options": ["did", "he", "finish"],
+    "answer": "did he finish?"
+  },
+  "225": {
+    "id": 225,
+    "tense": "past",
+    "task": "я летал",
+    "options": ["i", "flew"],
+    "answer": "i flew"
+  },
+  "226": {
+    "id": 226,
+    "tense": "present",
+    "task": "ты следуешь",
+    "options": ["you", "follow"],
+    "answer": "you follow"
+  },
+  "227": {
+    "id": 227,
+    "tense": "present",
+    "task": "он не заставляет",
+    "options": ["he", "doesn't", "force"],
+    "answer": "he doesn't force"
+  },
+  "228": {
+    "id": 228,
+    "tense": "present",
+    "task": "она замерзает?",
+    "options": ["does", "she", "freeze"],
+    "answer": "does she freeze?"
+  },
+  "229": {
+    "id": 229,
+    "tense": "present",
+    "task": "мы жарим",
+    "options": ["we", "fry"],
+    "answer": "we fry"
+  },
+  "230": {
+    "id": 230,
+    "tense": "present",
+    "task": "ты не получаешь",
+    "options": ["you", "don't", "get"],
+    "answer": "you don't get"
+  },
+  "231": {
+    "id": 231,
+    "tense": "present",
+    "task": "он даёт?",
+    "options": ["does", "he", "give"],
+    "answer": "does he give?"
+  },
+  "232": {
+    "id": 232,
+    "tense": "present",
+    "task": "я иду",
+    "options": ["i", "go"],
+    "answer": "i go"
+  },
+  "233": {
+    "id": 233,
+    "tense": "present",
+    "task": "вы не растёте",
+    "options": ["you", "don't", "grow"],
+    "answer": "you don't grow"
+  },
+  "234": {
+    "id": 234,
+    "tense": "present",
+    "task": "она угадывает?",
+    "options": ["does", "she", "guess"],
+    "answer": "does she guess?"
+  },
+  "235": {
+    "id": 235,
+    "tense": "present",
+    "task": "мы случаемся",
+    "options": ["we", "happen"],
+    "answer": "we happen"
+  },
+  "236": {
+    "id": 236,
+    "tense": "present",
+    "task": "ты не ненавидишь",
+    "options": ["you", "don't", "hate"],
+    "answer": "you don't hate"
+  },
+  "237": {
+    "id": 237,
+    "tense": "present",
+    "task": "он имеет?",
+    "options": ["does", "he", "have"],
+    "answer": "does he have?"
+  },
+  "238": {
+    "id": 238,
+    "tense": "present",
+    "task": "я слышу",
+    "options": ["i", "hear"],
+    "answer": "i hear"
+  },
+  "239": {
+    "id": 239,
+    "tense": "present",
+    "task": "вы не помогаете",
+    "options": ["you", "don't", "help"],
+    "answer": "you don't help"
+  },
+  "240": {
+    "id": 240,
+    "tense": "present",
+    "task": "она прячется?",
+    "options": ["does", "she", "hide"],
+    "answer": "does she hide?"
+  },
+  "241": {
+    "id": 241,
+    "tense": "present",
+    "task": "я продолжаю",
+    "options": ["i", "continue"],
+    "answer": "i continue"
+  },
+  "242": {
+    "id": 242,
+    "tense": "future",
+    "task": "ты ударишь",
+    "options": ["you", "will", "hit"],
+    "answer": "you will hit"
+  },
+  "243": {
+    "id": 243,
+    "tense": "past",
+    "task": "он не держал",
+    "options": ["he", "didn't", "hold"],
+    "answer": "he didn't hold"
+  },
+  "244": {
+    "id": 244,
+    "tense": "present",
+    "task": "она надеется?",
+    "options": ["does", "she", "hope"],
+    "answer": "does she hope?"
+  },
+  "245": {
+    "id": 245,
+    "tense": "future",
+    "task": "мы причиним боль",
+    "options": ["we", "will", "hurt"],
+    "answer": "we will hurt"
+  },
+  "246": {
+    "id": 246,
+    "tense": "past",
+    "task": "вы не идентифицировали",
+    "options": ["you", "didn't", "identify"],
+    "answer": "you didn't identify"
+  },
+  "247": {
+    "id": 247,
+    "tense": "present",
+    "task": "они представляют?",
+    "options": ["do", "they", "imagine"],
+    "answer": "do they imagine?"
+  },
+  "248": {
+    "id": 248,
+    "tense": "future",
+    "task": "я улучшу",
+    "options": ["i", "will", "improve"],
+    "answer": "i will improve"
+  },
+  "249": {
+    "id": 249,
+    "tense": "past",
+    "task": "ты не включал",
+    "options": ["you", "didn't", "include"],
+    "answer": "you didn't include"
+  },
+  "250": {
+    "id": 250,
+    "tense": "present",
+    "task": "он увеличивает?",
+    "options": ["does", "he", "increase"],
+    "answer": "does he increase?"
+  },
+  "251": {
+    "id": 251,
+    "tense": "future",
+    "task": "она внедрит",
+    "options": ["she", "will", "implement"],
+    "answer": "she will implement"
+  },
+  "252": {
+    "id": 252,
+    "tense": "past",
+    "task": "мы не приглашали",
+    "options": ["we", "didn't", "invite"],
+    "answer": "we didn't invite"
+  },
+  "253": {
+    "id": 253,
+    "tense": "present",
+    "task": "вы вовлекаете?",
+    "options": ["do", "you", "involve"],
+    "answer": "do you involve?"
+  },
+  "254": {
+    "id": 254,
+    "tense": "future",
+    "task": "они присоединятся",
+    "options": ["they", "will", "join"],
+    "answer": "they will join"
+  },
+  "255": {
+    "id": 255,
+    "tense": "past",
+    "task": "я не прыгал",
+    "options": ["i", "didn't", "jump"],
+    "answer": "i didn't jump"
+  },
+  "256": {
+    "id": 256,
+    "tense": "present",
+    "task": "ты сохраняешь?",
+    "options": ["do", "you", "keep"],
+    "answer": "do you keep?"
+  },
+  "257": {
+    "id": 257,
+    "tense": "future",
+    "task": "он убьёт",
+    "options": ["he", "will", "kill"],
+    "answer": "he will kill"
+  },
+  "258": {
+    "id": 258,
+    "tense": "past",
+    "task": "она не целовала",
+    "options": ["she", "didn't", "kiss"],
+    "answer": "she didn't kiss"
+  },
+  "259": {
+    "id": 259,
+    "tense": "present",
+    "task": "мы знаем",
+    "options": ["we", "know"],
+    "answer": "we know"
+  },
+  "260": {
+    "id": 260,
+    "tense": "future",
+    "task": "вы не засмеётесь",
+    "options": ["you", "won't", "laugh"],
+    "answer": "you won't laugh"
+  },
+  "261": {
+    "id": 261,
+    "tense": "past",
+    "task": "я выглядел",
+    "options": ["i", "looked"],
+    "answer": "i looked"
+  },
+  "262": {
+    "id": 262,
+    "tense": "present",
+    "task": "ты теряешь",
+    "options": ["you", "lose"],
+    "answer": "you lose"
+  },
+  "263": {
+    "id": 263,
+    "tense": "future",
+    "task": "он не сделает",
+    "options": ["he", "won't", "make"],
+    "answer": "he won't make"
+  },
+  "264": {
+    "id": 264,
+    "tense": "past",
+    "task": "она имела в виду?",
+    "options": ["did", "she", "mean"],
+    "answer": "did she mean?"
+  },
+  "265": {
+    "id": 265,
+    "tense": "present",
+    "task": "мы двигаемся",
+    "options": ["we", "move"],
+    "answer": "we move"
+  },
+  "266": {
+    "id": 266,
+    "tense": "future",
+    "task": "вы справитесь?",
+    "options": ["will", "you", "manage"],
+    "answer": "will you manage?"
+  },
+  "267": {
+    "id": 267,
+    "tense": "past",
+    "task": "они не женились",
+    "options": ["they", "didn't", "marry"],
+    "answer": "they didn't marry"
+  },
+  "268": {
+    "id": 268,
+    "tense": "present",
+    "task": "я измеряю",
+    "options": ["i", "measure"],
+    "answer": "i measure"
+  },
+  "269": {
+    "id": 269,
+    "tense": "future",
+    "task": "ты встретишь",
+    "options": ["you", "will", "meet"],
+    "answer": "you will meet"
+  },
+  "270": {
+    "id": 270,
+    "tense": "past",
+    "task": "он пропустил?",
+    "options": ["did", "he", "miss"],
+    "answer": "did he miss?"
+  },
+  "271": {
+    "id": 271,
+    "tense": "present",
+    "task": "она нуждается",
+    "options": ["she", "needs"],
+    "answer": "she needs"
+  },
+  "272": {
+    "id": 272,
+    "tense": "future",
+    "task": "мы не заметим",
+    "options": ["we", "won't", "notice"],
+    "answer": "we won't notice"
+  },
+  "273": {
+    "id": 273,
+    "tense": "past",
+    "task": "вы подчинились?",
+    "options": ["did", "you", "obey"],
+    "answer": "did you obey?"
+  },
+  "274": {
+    "id": 274,
+    "tense": "present",
+    "task": "они предлагают",
+    "options": ["they", "offer"],
+    "answer": "they offer"
+  },
+  "275": {
+    "id": 275,
+    "tense": "future",
+    "task": "я открою",
+    "options": ["i", "will", "open"],
+    "answer": "i will open"
+  },
+  "276": {
+    "id": 276,
+    "tense": "past",
+    "task": "ты не организовал",
+    "options": ["you", "didn't", "organize"],
+    "answer": "you didn't organize"
+  },
+  "277": {
+    "id": 277,
+    "tense": "present",
+    "task": "он должен?",
+    "options": ["does", "he", "owe"],
+    "answer": "does he owe?"
+  },
+  "278": {
+    "id": 278,
+    "tense": "future",
+    "task": "она будет владеть",
+    "options": ["she", "will", "own"],
+    "answer": "she will own"
+  },
+  "279": {
+    "id": 279,
+    "tense": "past",
+    "task": "мы передали",
+    "options": ["we", "passed"],
+    "answer": "we passed"
+  },
+  "280": {
+    "id": 280,
+    "tense": "present",
+    "task": "вы не платите",
+    "options": ["you", "don't", "pay"],
+    "answer": "you don't pay"
+  },
+  "281": {
+    "id": 281,
+    "tense": "future",
+    "task": "они выполнят?",
+    "options": ["will", "they", "perform"],
+    "answer": "will they perform?"
+  },
+  "282": {
+    "id": 282,
+    "tense": "past",
+    "task": "я собирал",
+    "options": ["i", "picked"],
+    "answer": "i picked"
+  },
+  "283": {
+    "id": 283,
+    "tense": "present",
+    "task": "ты планируешь",
+    "options": ["you", "plan"],
+    "answer": "you plan"
+  },
+  "284": {
+    "id": 284,
+    "tense": "future",
+    "task": "он не будет играть",
+    "options": ["he", "won't", "play"],
+    "answer": "he won't play"
+  },
+  "285": {
+    "id": 285,
+    "tense": "past",
+    "task": "она практиковала?",
+    "options": ["did", "she", "practice"],
+    "answer": "did she practice?"
+  },
+  "286": {
+    "id": 286,
+    "tense": "present",
+    "task": "я предпочитаю",
+    "options": ["i", "prefer"],
+    "answer": "i prefer"
+  },
+  "287": {
+    "id": 287,
+    "tense": "future",
+    "task": "ты подготовишь",
+    "options": ["you", "will", "prepare"],
+    "answer": "you will prepare"
+  },
+  "288": {
+    "id": 288,
+    "tense": "past",
+    "task": "он не подарил",
+    "options": ["he", "didn't", "present"],
+    "answer": "he didn't present"
+  },
+  "289": {
+    "id": 289,
+    "tense": "present",
+    "task": "она притворяется?",
+    "options": ["does", "she", "pretend"],
+    "answer": "does she pretend?"
+  },
+  "290": {
+    "id": 290,
+    "tense": "future",
+    "task": "мы предотвратим",
+    "options": ["we", "will", "prevent"],
+    "answer": "we will prevent"
+  },
+  "291": {
+    "id": 291,
+    "tense": "past",
+    "task": "вы не производили",
+    "options": ["you", "didn't", "produce"],
+    "answer": "you didn't produce"
+  },
+  "292": {
+    "id": 292,
+    "tense": "present",
+    "task": "они защищают?",
+    "options": ["do", "they", "protect"],
+    "answer": "do they protect?"
+  },
+  "293": {
+    "id": 293,
+    "tense": "future",
+    "task": "я докажу",
+    "options": ["i", "will", "prove"],
+    "answer": "i will prove"
+  },
+  "294": {
+    "id": 294,
+    "tense": "past",
+    "task": "ты тянул",
+    "options": ["you", "pulled"],
+    "answer": "you pulled"
+  },
+  "295": {
+    "id": 295,
+    "tense": "present",
+    "task": "он не толкает",
+    "options": ["he", "doesn't", "push"],
+    "answer": "he doesn't push"
+  },
+  "296": {
+    "id": 296,
+    "tense": "future",
+    "task": "она положит?",
+    "options": ["will", "she", "put"],
+    "answer": "will she put?"
+  },
+  "297": {
+    "id": 297,
+    "tense": "past",
+    "task": "мы обеспечили",
+    "options": ["we", "provided"],
+    "answer": "we provided"
+  },
+  "298": {
+    "id": 298,
+    "tense": "present",
+    "task": "вы указываете",
+    "options": ["you", "point"],
+    "answer": "you point"
+  },
+  "299": {
+    "id": 299,
+    "tense": "future",
+    "task": "они не разместят",
+    "options": ["they", "won't", "place"],
+    "answer": "they won't place"
+  },
+  "300": {
+    "id": 300,
+    "tense": "past",
+    "task": "я читал?",
+    "options": ["did", "i", "read"],
+    "answer": "did i read?"
+  },
+  "301": {
+    "id": 301,
+    "tense": "present",
+    "task": "ты бежишь",
+    "options": ["you", "run"],
+    "answer": "you run"
+  },
+  "302": {
+    "id": 302,
+    "tense": "future",
+    "task": "он поднимет",
+    "options": ["he", "will", "raise"],
+    "answer": "he will raise"
+  },
+  "303": {
+    "id": 303,
+    "tense": "past",
+    "task": "она не достигла",
+    "options": ["she", "didn't", "reach"],
+    "answer": "she didn't reach"
+  },
+  "304": {
+    "id": 304,
+    "tense": "present",
+    "task": "мы осознаём?",
+    "options": ["do", "we", "realize"],
+    "answer": "do we realize?"
+  },
+  "305": {
+    "id": 305,
+    "tense": "future",
+    "task": "вы получите",
+    "options": ["you", "will", "receive"],
+    "answer": "you will receive"
+  },
+  "306": {
+    "id": 306,
+    "tense": "past",
+    "task": "они узнали",
+    "options": ["they", "recognized"],
+    "answer": "they recognized"
+  },
+  "307": {
+    "id": 307,
+    "tense": "present",
+    "task": "я не записываю",
+    "options": ["i", "don't", "record"],
+    "answer": "i don't record"
+  },
+  "308": {
+    "id": 308,
+    "tense": "future",
+    "task": "ты уменьшишь?",
+    "options": ["will", "you", "reduce"],
+    "answer": "will you reduce?"
+  },
+  "309": {
+    "id": 309,
+    "tense": "past",
+    "task": "он отказал",
+    "options": ["he", "refused"],
+    "answer": "he refused"
+  },
+  "310": {
+    "id": 310,
+    "tense": "present",
+    "task": "она сожалеет",
+    "options": ["she", "regrets"],
+    "answer": "she regrets"
+  },
+  "311": {
+    "id": 311,
+    "tense": "future",
+    "task": "мы не соотнесём",
+    "options": ["we", "won't", "relate"],
+    "answer": "we won't relate"
+  },
+  "312": {
+    "id": 312,
+    "tense": "past",
+    "task": "вы расслабились?",
+    "options": ["did", "you", "relax"],
+    "answer": "did you relax?"
+  },
+  "313": {
+    "id": 313,
+    "tense": "present",
+    "task": "они помнят",
+    "options": ["they", "remember"],
+    "answer": "they remember"
+  },
+  "314": {
+    "id": 314,
+    "tense": "future",
+    "task": "я удалю",
+    "options": ["i", "will", "remove"],
+    "answer": "i will remove"
+  },
+  "315": {
+    "id": 315,
+    "tense": "past",
+    "task": "ты не повторял",
+    "options": ["you", "didn't", "repeat"],
+    "answer": "you didn't repeat"
+  },
+  "316": {
+    "id": 316,
+    "tense": "present",
+    "task": "я возвращаю",
+    "options": ["i", "return"],
+    "answer": "i return"
+  },
+  "317": {
+    "id": 317,
+    "tense": "future",
+    "task": "ты поедешь верхом",
+    "options": ["you", "will", "ride"],
+    "answer": "you will ride"
+  },
+  "318": {
+    "id": 318,
+    "tense": "past",
+    "task": "он не звонил",
+    "options": ["he", "didn't", "ring"],
+    "answer": "he didn't ring"
+  },
+  "319": {
+    "id": 319,
+    "tense": "present",
+    "task": "она поднимается?",
+    "options": ["does", "she", "rise"],
+    "answer": "does she rise?"
+  },
+  "320": {
+    "id": 320,
+    "tense": "future",
+    "task": "мы покатим",
+    "options": ["we", "will", "roll"],
+    "answer": "we will roll"
+  },
+  "321": {
+    "id": 321,
+    "tense": "past",
+    "task": "вы остались",
+    "options": ["you", "remained"],
+    "answer": "you remained"
+  },
+  "322": {
+    "id": 322,
+    "tense": "present",
+    "task": "они представляют?",
+    "options": ["do", "they", "represent"],
+    "answer": "do they represent?"
+  },
+  "323": {
+    "id": 323,
+    "tense": "future",
+    "task": "я сохраню",
+    "options": ["i", "will", "save"],
+    "answer": "i will save"
+  },
+  "324": {
+    "id": 324,
+    "tense": "past",
+    "task": "ты не сказал",
+    "options": ["you", "didn't", "say"],
+    "answer": "you didn't say"
+  },
+  "325": {
+    "id": 325,
+    "tense": "present",
+    "task": "он видит",
+    "options": ["he", "sees"],
+    "answer": "he sees"
+  },
+  "326": {
+    "id": 326,
+    "tense": "future",
+    "task": "она продаст?",
+    "options": ["will", "she", "sell"],
+    "answer": "will she sell?"
+  },
+  "327": {
+    "id": 327,
+    "tense": "past",
+    "task": "мы отправили",
+    "options": ["we", "sent"],
+    "answer": "we sent"
+  },
+  "328": {
+    "id": 328,
+    "tense": "present",
+    "task": "вы обслуживаете",
+    "options": ["you", "serve"],
+    "answer": "you serve"
+  },
+  "329": {
+    "id": 329,
+    "tense": "future",
+    "task": "они не установят",
+    "options": ["they", "won't", "set"],
+    "answer": "they won't set"
+  },
+  "330": {
+    "id": 330,
+    "tense": "past",
+    "task": "я уладил?",
+    "options": ["did", "i", "settle"],
+    "answer": "did i settle?"
+  },
+  "331": {
+    "id": 331,
+    "tense": "present",
+    "task": "ты трясёшь",
+    "options": ["you", "shake"],
+    "answer": "you shake"
+  },
+  "332": {
+    "id": 332,
+    "tense": "future",
+    "task": "он поделится",
+    "options": ["he", "will", "share"],
+    "answer": "he will share"
+  },
+  "333": {
+    "id": 333,
+    "tense": "past",
+    "task": "она не стреляла",
+    "options": ["she", "didn't", "shoot"],
+    "answer": "she didn't shoot"
+  },
+  "334": {
+    "id": 334,
+    "tense": "present",
+    "task": "мы показываем?",
+    "options": ["do", "we", "show"],
+    "answer": "do we show?"
+  },
+  "335": {
+    "id": 335,
+    "tense": "future",
+    "task": "вы закроете",
+    "options": ["you", "will", "shut"],
+    "answer": "you will shut"
+  },
+  "336": {
+    "id": 336,
+    "tense": "past",
+    "task": "они подписали",
+    "options": ["they", "signed"],
+    "answer": "they signed"
+  },
+  "337": {
+    "id": 337,
+    "tense": "present",
+    "task": "я не пою",
+    "options": ["i", "don't", "sing"],
+    "answer": "i don't sing"
+  },
+  "338": {
+    "id": 338,
+    "tense": "future",
+    "task": "ты сядешь?",
+    "options": ["will", "you", "sit"],
+    "answer": "will you sit?"
+  },
+  "339": {
+    "id": 339,
+    "tense": "past",
+    "task": "он спал",
+    "options": ["he", "slept"],
+    "answer": "he slept"
+  },
+  "340": {
+    "id": 340,
+    "tense": "present",
+    "task": "она улыбается",
+    "options": ["she", "smiles"],
+    "answer": "she smiles"
+  },
+  "341": {
+    "id": 341,
+    "tense": "future",
+    "task": "мы решим",
+    "options": ["we", "will", "solve"],
+    "answer": "we will solve"
+  },
+  "342": {
+    "id": 342,
+    "tense": "past",
+    "task": "вы не говорили",
+    "options": ["you", "didn't", "speak"],
+    "answer": "you didn't speak"
+  },
+  "343": {
+    "id": 343,
+    "tense": "present",
+    "task": "они тратят?",
+    "options": ["do", "they", "spend"],
+    "answer": "do they spend?"
+  },
+  "344": {
+    "id": 344,
+    "tense": "future",
+    "task": "я простою",
+    "options": ["i", "will", "stand"],
+    "answer": "i will stand"
+  },
+  "345": {
+    "id": 345,
+    "tense": "past",
+    "task": "ты начинал",
+    "options": ["you", "started"],
+    "answer": "you started"
+  },
+  "346": {
+    "id": 346,
+    "tense": "present",
+    "task": "я краду",
+    "options": ["i", "steal"],
+    "answer": "i steal"
+  },
+  "347": {
+    "id": 347,
+    "tense": "future",
+    "task": "ты остановишься",
+    "options": ["you", "will", "stop"],
+    "answer": "you will stop"
+  },
+  "348": {
+    "id": 348,
+    "tense": "past",
+    "task": "он не предлагал",
+    "options": ["he", "didn't", "suggest"],
+    "answer": "he didn't suggest"
+  },
+  "349": {
+    "id": 349,
+    "tense": "present",
+    "task": "она поставляет?",
+    "options": ["does", "she", "supply"],
+    "answer": "does she supply?"
+  },
+  "350": {
+    "id": 350,
+    "tense": "future",
+    "task": "мы поддержим",
+    "options": ["we", "will", "support"],
+    "answer": "we will support"
+  },
+  "351": {
+    "id": 351,
+    "tense": "past",
+    "task": "вы полагали",
+    "options": ["you", "supposed"],
+    "answer": "you supposed"
+  },
+  "352": {
+    "id": 352,
+    "tense": "present",
+    "task": "они удивляют?",
+    "options": ["do", "they", "surprise"],
+    "answer": "do they surprise?"
+  },
+  "353": {
+    "id": 353,
+    "tense": "future",
+    "task": "я поплыву",
+    "options": ["i", "will", "swim"],
+    "answer": "i will swim"
+  },
+  "354": {
+    "id": 354,
+    "tense": "past",
+    "task": "ты казался",
+    "options": ["you", "seemed"],
+    "answer": "you seemed"
+  },
+  "355": {
+    "id": 355,
+    "tense": "present",
+    "task": "он берёт",
+    "options": ["he", "takes"],
+    "answer": "he takes"
+  },
+  "356": {
+    "id": 356,
+    "tense": "future",
+    "task": "она поговорит?",
+    "options": ["will", "she", "talk"],
+    "answer": "will she talk?"
+  },
+  "357": {
+    "id": 357,
+    "tense": "past",
+    "task": "мы учили",
+    "options": ["we", "taught"],
+    "answer": "we taught"
+  },
+  "358": {
+    "id": 358,
+    "tense": "present",
+    "task": "вы не рассказываете",
+    "options": ["you", "don't", "tell"],
+    "answer": "you don't tell"
+  },
+  "359": {
+    "id": 359,
+    "tense": "future",
+    "task": "они будут иметь тенденцию",
+    "options": ["they", "will", "tend"],
+    "answer": "they will tend"
+  },
+  "360": {
+    "id": 360,
+    "tense": "past",
+    "task": "я проверил?",
+    "options": ["did", "i", "test"],
+    "answer": "did i test?"
+  },
+  "361": {
+    "id": 361,
+    "tense": "present",
+    "task": "ты благодаришь",
+    "options": ["you", "thank"],
+    "answer": "you thank"
+  },
+  "362": {
+    "id": 362,
+    "tense": "future",
+    "task": "он подумает",
+    "options": ["he", "will", "think"],
+    "answer": "he will think"
+  },
+  "363": {
+    "id": 363,
+    "tense": "past",
+    "task": "она не бросила",
+    "options": ["she", "didn't", "throw"],
+    "answer": "she didn't throw"
+  },
+  "364": {
+    "id": 364,
+    "tense": "present",
+    "task": "мы касаемся?",
+    "options": ["do", "we", "touch"],
+    "answer": "do we touch?"
+  },
+  "365": {
+    "id": 365,
+    "tense": "future",
+    "task": "вы потренируетесь",
+    "options": ["you", "will", "train"],
+    "answer": "you will train"
+  },
+  "366": {
+    "id": 366,
+    "tense": "past",
+    "task": "они путешествовали",
+    "options": ["they", "traveled"],
+    "answer": "they traveled"
+  },
+  "367": {
+    "id": 367,
+    "tense": "present",
+    "task": "я не отношусь",
+    "options": ["i", "don't", "treat"],
+    "answer": "i don't treat"
+  },
+  "368": {
+    "id": 368,
+    "tense": "future",
+    "task": "ты попробуешь?",
+    "options": ["will", "you", "try"],
+    "answer": "will you try?"
+  },
+  "369": {
+    "id": 369,
+    "tense": "past",
+    "task": "он повернул",
+    "options": ["he", "turned"],
+    "answer": "he turned"
+  },
+  "370": {
+    "id": 370,
+    "tense": "present",
+    "task": "она понимает",
+    "options": ["she", "understands"],
+    "answer": "she understands"
+  },
+  "371": {
+    "id": 371,
+    "tense": "future",
+    "task": "мы не используем",
+    "options": ["we", "won't", "use"],
+    "answer": "we won't use"
+  },
+  "372": {
+    "id": 372,
+    "tense": "past",
+    "task": "вы посетили?",
+    "options": ["did", "you", "visit"],
+    "answer": "did you visit?"
+  },
+  "373": {
+    "id": 373,
+    "tense": "present",
+    "task": "они ждут",
+    "options": ["they", "wait"],
+    "answer": "they wait"
+  },
+  "374": {
+    "id": 374,
+    "tense": "future",
+    "task": "я пойду пешком",
+    "options": ["i", "will", "walk"],
+    "answer": "i will walk"
+  },
+  "375": {
+    "id": 375,
+    "tense": "past",
+    "task": "ты не хотел",
+    "options": ["you", "didn't", "want"],
+    "answer": "you didn't want"
+  },
+  "376": {
+    "id": 376,
+    "tense": "present",
+    "task": "он смотрит?",
+    "options": ["does", "he", "watch"],
+    "answer": "does he watch?"
+  },
+  "377": {
+    "id": 377,
+    "tense": "future",
+    "task": "она победит",
+    "options": ["she", "will", "win"],
+    "answer": "she will win"
+  },
+  "378": {
+    "id": 378,
+    "tense": "past",
+    "task": "мы желали",
+    "options": ["we", "wished"],
+    "answer": "we wished"
+  },
+  "379": {
+    "id": 379,
+    "tense": "present",
+    "task": "вы не работаете",
+    "options": ["you", "don't", "work"],
+    "answer": "you don't work"
+  },
+  "380": {
+    "id": 380,
+    "tense": "future",
+    "task": "они побеспокоятся?",
+    "options": ["will", "they", "worry"],
+    "answer": "will they worry?"
+  },
+  "381": {
+    "id": 381,
+    "tense": "past",
+    "task": "я писал",
+    "options": ["i", "wrote"],
+    "answer": "i wrote"
+  },
+  "382": {
+    "id": 382,
+    "tense": "present",
+    "task": "ты носишь",
+    "options": ["you", "wear"],
+    "answer": "you wear"
+  },
+  "383": {
+    "id": 383,
+    "tense": "future",
+    "task": "он не закричит",
+    "options": ["he", "won't", "yell"],
+    "answer": "he won't yell"
+  },
+  "384": {
+    "id": 384,
+    "tense": "past",
+    "task": "она могла?",
+    "options": ["could", "she"],
+    "answer": "could she?"
+  },
+  "385": {
+    "id": 385,
+    "tense": "present",
+    "task": "мы должны",
+    "options": ["we", "must"],
+    "answer": "we must"
+  }
+}

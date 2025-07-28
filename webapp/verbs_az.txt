@@ -1,0 +1,513 @@
+ask — soruşmaq
+
+accept — qəbul etmək
+
+afford — imkan vermək / pulu çatmaq
+
+agree — razılaşmaq
+
+allow — icazə vermək
+
+announce — elan etmək
+
+apologize — üzr istəmək
+
+appear — görünmək
+
+arrive — gəlmək (yerə çatmaq)
+
+avoid — qaçınmaq
+
+become — olmaq (çevrilmək)
+
+begin — başlamaq
+
+believe — inanmaq
+
+bring — gətirmək
+
+build — qurmaq
+
+buy — almaq (satın)
+
+beat — döymək / qalib gəlmək
+
+borrow — borc almaq
+
+break — qırmaq / pozmaq
+
+burn — yanmaq / yandırmaq
+
+be — olmaq
+
+call — zəng еtmək / çağırmaq
+
+can — bacarmaq / bilmək (modal fеl)
+
+carry — daşımaq / aparmaq
+
+catch — tutmaq / yахalamaq
+
+change — dəyişmək / dəyişdirmək
+
+come — gəlmək / gеlib çatmaq
+
+continue — davam еtmək
+
+cost — dəyər / baha оlmaq
+
+celebrate — qеyd еtmək / kеçirmək
+
+check — yохlamaq / kontrol еtmək
+
+choose — seçmək
+
+clean — təmizləmək
+
+climb — dırmaşmaq / qalхmaq
+
+close — bağlamaq / örtmək
+
+compare — müqayisə еtmək
+
+complain — şikayət еtmək
+
+cook — bişirmək / yemək hazırlamaq
+
+copy — kоpyalamaq / köçürmək
+
+correct — düzəltmək / təshih еtmək
+
+cry — ağlamaq / fəğan еtmək
+
+cut — kəsmək / dilimləmək
+
+consider — nəzərə almaq / düşünmək
+
+cover — örtmək / qapatmaq
+
+cause — səbəb оlmaq / törətmək
+
+do — etmək / eləmək
+
+drink — içmək
+
+drive — sürmək (maşın)
+
+dance — rəqs etmək
+
+decide — qərar vermək
+
+deliver — çatdırmaq / təslim etmək
+
+describe — təsvir etmək
+
+discover — kəşf etmək
+
+discuss — müzakirə etmək
+
+divide — bölmək
+
+double — ikiqat artırmaq
+
+doubt — şübhələnmək
+
+drag — sürükləmək
+
+draw — çəkmək / rəsm çəkmək
+
+dress — geyinmək
+
+drop — salmaq / düşürmək
+
+dry — qurumaq / qurutmaq
+
+die — vəfat etmək
+
+develop — inkişaf etdirmək
+
+dare — cəsarət etmək
+
+eat — yemək
+
+earn — qazanmaq (pul)
+
+enjoy — həzz almaq / zövq almaq
+
+escape — qaçmaq
+
+explain — izah etmək
+
+expect — gözləmək / ümid etmək
+
+feel — hiss etmək
+
+find — tapmaq
+
+forget — unutmaq
+
+fall — düşmək
+
+feed — yemləmək
+
+fight — döyüşmək / mübarizə aparmaq
+
+fill — doldurmaq
+
+finish — bitirmək
+
+fly — uçmaq
+
+follow — izləmək
+
+force — məcbur etmək
+
+freeze — donmaq / dondurmaq
+
+fry — qızartmaq
+
+get — almaq / olmaq
+
+give — vermək
+
+go — getmək
+
+grow — böyümək / yetişdirmək
+
+guess — təxmin etmək
+
+happen — baş vermək
+
+hate — nifrət etmək
+
+have — sahib olmaq
+
+hear — eşitmək
+
+help — kömək etmək
+
+hide — gizlətmək
+
+hit — vurmaq
+
+hold — tutmaq
+
+hope — ümid etmək
+
+hurt — incitmək / ağrımaq
+
+identify — müəyyən etmək
+
+imagine — təsəvvür etmək
+
+improve — yaxşılaşdırmaq
+
+include — daxil etmək
+
+increase — artırmaq
+
+introduce — təqdim etmək
+
+invite — dəvət etmək
+
+involve — cəlb etmək
+
+join — qoşulmaq / iştirak etmək
+
+jump — tullanmaq / atlamaq
+
+keep — saxlamaq / davam etdirmək
+
+kill — öldürmək
+
+kiss — öpmək
+
+know — bilmək
+
+laugh — gülmək
+
+love — sevmək / aşiq olmaq
+
+lead — rəhbərlik etmək / aparmaq
+
+learn — öyrənmək
+
+leave — tərk etmək / ayrılmaq
+
+lend — borc vermək
+
+let — icazə vermək
+
+like — bəyənmək / xoşlamaq
+
+listen — dinləmək
+
+live — yaşamaq
+
+look — baxmaq / görünmək
+
+lose — itirmək
+
+make — etmək / hazırlamaq
+
+mean — demək istəmək / məna vermək
+
+move — hərəkət etmək / köçmək
+
+manage — idarə etmək / bacarmaq
+
+marry — evlənmək
+
+measure — ölçmək
+
+meet — görüşmək / tanış olmaq
+
+miss — darıxmaq / qaçırmaq
+
+need — ehtiyac duymaq
+
+notice — fərqinə varmaq
+
+obey — itaət etmək
+
+offer — təklif etmək
+
+open — açmaq
+
+organize — təşkil etmək
+
+owe — borclu olmaq
+
+own — sahib olmaq
+
+pass — keçmək / ötürmək
+
+pay — ödəmək
+
+perform — ifa etmək / yerinə yetirmək
+
+pick — seçmək / toplamaq
+
+plan — planlaşdırmaq
+
+play — oynamaq
+
+practice — məşq etmək
+
+prefer — üstün tutmaq
+
+prepare — hazırlamaq
+
+present — təqdim etmək
+
+pretend — iddia etmək / rol oynamaq
+
+prevent — qarşısını almaq
+
+produce — istehsal etmək
+
+protect — qorumaq
+
+prove — sübut etmək
+
+pull — çəkmək
+
+push — itmək
+
+put — qoymaq
+
+provide — təmin etmək
+
+point — göstərmək / işarə etmək
+
+place — yerləşdirmək
+
+read — oxumaq
+
+run — qaçmaq
+
+raise — qaldırmaq
+
+reach — çatmaq
+
+realize — dərk etmək
+
+receive — qəbul etmək
+
+recognize — tanımaq
+
+record — yazmaq / qeyd etmək
+
+reduce — azaltmaq
+
+refuse — rədd etmək
+
+regret — peşman olmaq
+
+relate — əlaqələndirmək
+
+relax — rahatlamaq
+
+remember — xatırlamaq
+
+remove — çıxarmaq
+
+repeat — təkrar etmək
+
+replace — əvəz etmək
+
+reply — cavab vermək
+
+report — hesabat vermək
+
+require — tələb etmək
+
+return — qayıtmaq
+
+ride — minmək
+
+ring — zəng etmək
+
+rise — qalxmaq
+
+roll — yuvarlanmaq
+
+remain — qalmaq
+
+represent — təmsil etmək
+
+save – qurtarmaq / qorumaq / yığmaq
+
+say – demək / söyləmək
+
+see – görmək 
+
+sell – satmaq
+
+send – göndərmək
+
+serve – xidmət etmək
+
+set – qurmaq / təyin etmək 
+
+settle – həll etmək / yerləşmək 
+
+shake – silkələmək / sallamaq 
+
+share – bölüşmək 
+
+shoot – atəş açmaq 
+
+show – göstərmək 
+
+shut – bağlamaq / yummaq
+
+sign – imzalamaq 
+
+sing – oxumaq / ifa etmək
+
+sit – oturmaq 
+
+sleep – yatmaq 
+
+smile – gülümsəmək
+
+solve – həll etmək
+
+speak – danışmaq 
+
+spend – xərcləmək / sərf etmək 
+
+stand – durmaq
+
+start – başlamaq 
+
+stay – qalmaq 
+
+steal – oğurlamaq 
+
+stop – dayanmaq / durdurmaq
+
+suggest – təklif etmək
+
+supply – təmin etmək 
+
+support – dəstəkləmək 
+
+suppose – güman etmək / düşünmək 
+
+surprise – təəccübləndirmək
+
+swim – üzmək
+
+seem – görünmək 
+
+take – götürmək / almaq 
+
+talk – danışmaq
+
+teach – öyrətmək 
+
+tell – demək / danışmaq
+
+tend – meyl etmək / qayğı göstərmək
+
+test – sınaqdan keçirmək / yoxlamaq
+
+thank – təşəkkür etmək
+
+think – düşünmək 
+
+throw – atmaq 
+
+touch – toxunmaq 
+
+train – məşq etmək / təlim keçmək
+
+travel – səyahət etmək
+
+treat – müalicə etmək / davranmaq
+
+try – cəhd etmək / sınamaq
+
+turn – dönmək / çevirmək
+
+understand – başa düşmək / anlamaq 
+
+use – istifadə etmək
+
+visit – ziyarət etmək
+
+wait – gözləmək
+
+walk – gəzmək / yerimək
+
+want – istəmək
+
+watch – seyr etmək / baxmaq
+
+win – qazanmaq 
+
+wish – arzu etmək 
+
+work – işləmək 
+
+worry – narahat olmaq
+
+write – yazmaq
+
+wear – geyinmək / taxmaq 
+
+yell – qışqırmaq 
+
+can – bacarmaq / bilmək 
+
+may – icazə vermək / bəlkə
+
+must – məcbur olmaq / lazım olmaq
+
+shall – olacaq(rəsmî gələcək zaman köməkçi fel)
+
+will – istəmək / niyyət
+
+ought to – lazımdır / gərək 
